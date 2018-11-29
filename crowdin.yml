@@ -1,0 +1,6 @@
+files:
+  - source: /en.lproj/*.strings
+    translation: /%osx_code%.%file_extension%/%file_name%.%file_extension%
+    languages_mapping:
+      osx_code:
+        es-ES: es
