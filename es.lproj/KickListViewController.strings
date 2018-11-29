@@ -1,0 +1,11 @@
+/* Class = "UILabel"; text = "Kick"; ObjectID = "BQJ-JY-oGx"; */
+"BQJ-JY-oGx.text" = "Pat. Result.";
+
+/* Class = "UILabel"; text = "Date & Time"; ObjectID = "C1Y-xd-opN"; */
+"C1Y-xd-opN.text" = "Fecha y hora";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "bkf-qX-9fJ"; */
+"bkf-qX-9fJ.text" = "Tiempo";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "FzU-LQ-Tij"; */
+"FzU-LQ-Tij.text" = "Historia";
