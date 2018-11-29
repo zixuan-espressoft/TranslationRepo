@@ -1,0 +1,11 @@
+/* Class = "UILabel"; text = "Please upgrade to our latest app version"; ObjectID = "Gl5-in-6zI"; */
+"Gl5-in-6zI.text" = "Por favor, actualiza la aplicación a la última versión";
+
+/* Class = "UIButton"; normalTitle = "Upgrade"; ObjectID = "NVA-ln-JVV"; */
+"NVA-ln-JVV.normalTitle" = "Actualiza ahora";
+
+/* Class = "UIButton"; normalTitle = "Remind me later"; ObjectID = "QPq-m7-ouL"; */
+"QPq-m7-ouL.normalTitle" = "Recordarme después";
+
+/* Class = "UILabel"; text = "New app version"; ObjectID = "qM8-99-WO4"; */
+"qM8-99-WO4.text" = "Actualización gratuita disponible";
