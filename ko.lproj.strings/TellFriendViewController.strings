@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "Pregnancy is a shared journey Invite \nyour partner, family and friends!"; ObjectID = "2rU-pS-Fqd"; */
+"2rU-pS-Fqd.text" = "Pregnancy is a shared journey. Invite your partner, family and friends!";
+
+/* Class = "UILabel"; text = "TELL A FRIEND"; ObjectID = "DG4-4T-G23"; */
+"DG4-4T-G23.text" = "TELL A FRIEND";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "JpA-8O-fqs"; */
+"JpA-8O-fqs.normalTitle" = "Close";
+
+/* Class = "UITextView"; text = "I use Pregnancy+ to follow my pregnancy. I thought you might like to download it as well."; ObjectID = "mbB-0W-sNZ"; */
+"mbB-0W-sNZ.text" = "I use Pregnancy+ to follow my pregnancy. I thought you might like to download it as well.";
+
+/* Class = "UIButton"; normalTitle = "Share the journey"; ObjectID = "Qd6-jq-vXE"; */
+"Qd6-jq-vXE.normalTitle" = "Share the journey";
