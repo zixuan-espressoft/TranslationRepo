@@ -1,0 +1,26 @@
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "0T5-52-lo5"; */
+"0T5-52-lo5.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "1.6cm"; ObjectID = "JmD-vc-uSa"; */
+"JmD-vc-uSa.text" = "1.6cm";
+
+/* Class = "UILabel"; text = "1 gram"; ObjectID = "QgY-Ek-t4Z"; */
+"QgY-Ek-t4Z.text" = "1 gram";
+
+/* Class = "UILabel"; text = "Reflexes"; ObjectID = "al5-Xy-ZIV"; */
+"al5-Xy-ZIV.text" = "Reflexes";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "g7E-qV-VPs"; */
+"g7E-qV-VPs.text" = "28";
+
+/*Week label*/
+"ikh-5B-Z1Q.text" = "Week";
+
+/* Class = "UILabel"; text = "Actual Size"; ObjectID = "y8y-aF-EOH"; */
+"y8y-aF-EOH.text" = "Actual Size";
+
+/*Week lebel top aligned*/
+"VK0-gG-N47.text" = "";
+
+/*Week Postfix*/
+"tFZ-JI-J73.text" = "";
