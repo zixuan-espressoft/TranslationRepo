@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Add appointment"; ObjectID = "1Ta-pT-J1H"; */
+"1Ta-pT-J1H.normalTitle" = "Agregar cita";
+
+/* Class = "UILabel"; text = "No appointments to display"; ObjectID = "1rZ-o1-vEZ"; */
+"1rZ-o1-vEZ.text" = "No hay eventos para mostrar en esta fecha.";
+
+/* Class = "UILabel"; text = "No events to display for this date."; ObjectID = "3JI-CR-z60"; */
+"3JI-CR-z60.text" = "No hay eventos para mostrar en esta fecha.";
+
+/* Class = "UIButton"; normalTitle = "Questions"; ObjectID = "A76-27-0Hz"; */
+"A76-27-0Hz.normalTitle" = "Preguntas";
+
+/* Class = "UIButton"; normalTitle = "List View"; ObjectID = "zWz-fk-eQq"; */
+"zWz-fk-eQq.normalTitle" = "Mostrar lista";
+
+/* Class = "UIButton"; selectedTitle = "Calendar View"; ObjectID = "zWz-fk-eQq"; */
+"zWz-fk-eQq.selectedTitle" = "Mostrar calendario";

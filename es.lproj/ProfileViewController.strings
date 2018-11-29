@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Sign up (new account)"; ObjectID = "4dR-vZ-t1K"; */
+"4dR-vZ-t1K.normalTitle" = "Registrarse (cuenta nueva)";
+
+/* Class = "UIButton"; normalTitle = "Log in (existing account)"; ObjectID = "f8p-2o-b9L"; */
+"f8p-2o-b9L.normalTitle" = "Ingresar (cuenta existente)";
+
+/* Class = "UIButton"; normalTitle = "Sign out everywhere"; ObjectID = "ghX-sM-Rlg"; */
+"ghX-sM-Rlg.normalTitle" = "Cerrar todas las sesiones";

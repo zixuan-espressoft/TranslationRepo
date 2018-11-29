@@ -1,0 +1,18 @@
+/* Class = "UILabel"; text = "Last period"; ObjectID = "AU5-fe-V20"; */
+"AU5-fe-V20.text" = "Last period";
+
+/* Class = "UIButton"; normalTitle = "Set calculated due date"; ObjectID = "Fll-0G-LDS"; */
+"Fll-0G-LDS.normalTitle" = "Set calculated due date";
+
+/* Class = "UILabel"; text = "Based on this, your Due Date is:"; ObjectID = "HuR-D4-Zaj"; */
+"HuR-D4-Zaj.text" = "Based on this, your due date is:";
+
+/* Class = "UILabel"; text = "Conception"; ObjectID = "mZB-qb-Vi6"; */
+"mZB-qb-Vi6.text" = "Conception";
+
+/* Class = "UILabel"; text = "Enter date of conception:"; ObjectID = "tKo-mT-b6S"; */
+"tKo-mT-b6S.text" = "Enter date of conception:";
+
+/* Class = "UILabel"; text = "Enter the 1st day of your last period:"; ObjectID = "vzT-GU-A2H"; */
+"vzT-GU-A2H.text" = "Enter the 1st day of your last period:";
+

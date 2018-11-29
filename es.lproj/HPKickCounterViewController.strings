@@ -1,0 +1,28 @@
+
+/* Class = "UILabel"; text = "Start time"; ObjectID = "K6j-ZE-X0a"; */
+"K6j-ZE-X0a.text" = "Hora comienzo";
+
+/* Class = "UILabel"; text = "Time left"; ObjectID = "KKF-hb-oHZ"; */
+"KKF-hb-oHZ.text" = "Tiempo restante";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "Qbg-kz-ezg"; */
+"Qbg-kz-ezg.text" = "min";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "VIc-9l-pli"; */
+"VIc-9l-pli.normalTitle" = "Finalizar";
+
+/* Class = "UIButton"; normalTitle = "Undo"; ObjectID = "ejZ-GC-2MI"; */
+"ejZ-GC-2MI.normalTitle" = "Deshacer";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "lRN-lk-The"; */
+"lRN-lk-The.text" = "min";
+
+/* Class = "UILabel"; text = "min"; ObjectID = "miH-Ha-LYV"; */
+"miH-Ha-LYV.text" = "min";
+
+/* Class = "UIButton"; normalTitle = "History"; ObjectID = "nO9-17-OAm"; */
+"nO9-17-OAm.normalTitle" = "Historia";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "qjx-Ml-Kzh"; */
+"qjx-Ml-Kzh.normalTitle" = "Inicio";
+

@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "Get Started!"; ObjectID = "5rh-hV-PkM"; */
+"5rh-hV-PkM.normalTitle" = "Empezar ahora!";
+
+/* Class = "IBUILabel"; text = "you’ve successfully\nunlocked the full version."; ObjectID = "9ZP-VW-89y"; */
+"9ZP-VW-89y.text" = "Has desbloqueado\ncorrectamente la versión completa.";
+
+/* Class = "IBUILabel"; text = "Wishing you a\nhealthy pregnancy!"; ObjectID = "AHf-dn-odU"; */
+"AHf-dn-odU.text" = "¡Te deseamos\nun feliz embarazo!";
+
+/* Class = "IBUILabel"; text = "Hi,"; ObjectID = "UDu-nG-sfc"; */
+"UDu-nG-sfc.text" = "Hola,";

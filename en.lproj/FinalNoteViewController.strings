@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Congratulations! You have reached the end of your pregnancy and are moments away from holding your baby in your arms. Enjoy being with your new son, daughter, twins, or multiples and thank you for allowing us to be a part of this wonderful experience in your life. The team of Health & Parenting wish you a safe delivery, and lots of joy and happiness with your little one(s).\n\nIf you’ve not already done so, please take a moment to rate our App. Your rating really helps us to promote the App and spread the word amongst new parents-to-be."; ObjectID = "BxB-T7-OzG"; */
+"BxB-T7-OzG.text" = "Congratulations! You have reached the end of your pregnancy and are moments away from holding your baby in your arms. Enjoy being with your new son, daughter, twins, or multiples and thank you for allowing us to be a part of this wonderful experience in your life. The team of Health & Parenting wish you a safe delivery, and lots of joy and happiness with your little one(s).";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "XB9-Md-vHF"; */
+"XB9-Md-vHF.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "Final note"; ObjectID = "aE2-0Z-Dcr"; */
+"aE2-0Z-Dcr.text" = "A final note...";
+
+/* Class = "UIButton"; normalTitle = "Maybe later"; ObjectID = "yI9-YA-ni7"; */
+"yI9-YA-ni7.normalTitle" = "Remind me later";

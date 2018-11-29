@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Current"; ObjectID = "GEi-YV-pEX"; */
+"GEi-YV-pEX.text" = "Actual";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "OVF-Jd-jnF"; */
+"OVF-Jd-jnF.text" = "Inicial";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "Ybm-b3-Glm"; */
+"Ybm-b3-Glm.text" = "Resumen";
+
+/* Class = "UILabel"; text = "WEIGHT"; ObjectID = "Zop-uY-xFI"; */
+"Zop-uY-xFI.text" = "PESO";
+
+/* Class = "UILabel"; text = "Change"; ObjectID = "y1q-aU-nFi"; */
+"y1q-aU-nFi.text" = "Cambio";

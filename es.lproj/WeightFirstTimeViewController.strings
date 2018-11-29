@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Weight..."; ObjectID = "3zs-Vi-bDq"; */
+"3zs-Vi-bDq.placeholder" = "Peso...";
+
+/* Class = "UITextField"; placeholder = "Weight..."; ObjectID = "8Hj-4c-Id1"; */
+"8Hj-4c-Id1.placeholder" = "Peso...";
+
+/* Class = "UILabel"; text = "Current Weight"; ObjectID = "C9Y-yN-uPv"; */
+"C9Y-yN-uPv.text" = "Peso actual";
+
+/* Class = "UILabel"; text = "Enter last period weight & date:"; ObjectID = "OhL-3S-K4C"; */
+"OhL-3S-K4C.text" = "Ingresar peso y fecha del primer día del último periodo:";
+
+/* Class = "UIButton"; normalTitle = "Submit and track weight"; ObjectID = "QHc-1Z-djh"; */
+"QHc-1Z-djh.normalTitle" = "Registrar peso";
+
+/* Class = "UILabel"; text = "Starting Weight"; ObjectID = "y9B-1g-Dce"; */
+"y9B-1g-Dce.text" = "Peso inicial";
+
+/* Class = "UILabel"; text = "Enter current weight & date:"; ObjectID = "zfu-2n-LVO"; */
+"zfu-2n-LVO.text" = "Ingresar peso y fecha actuales:";

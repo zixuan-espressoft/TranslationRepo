@@ -1,0 +1,3469 @@
+/* Home screen action title */
+"%d items left to buy" = "%d items left to buy";
+
+/* Home screen action title */
+"%d items left to do" = "%d items left to do";
+
+/* ContractionGraphVC-dilation length in inch */
+"0 - 1.5 \"" = "0 - 1.5 \"";
+
+/* ContractionGraphVC-dilation length in cm */
+"0 - 3 cm" = "0 - 3 cm";
+
+/* ContractionGraphVC-dilation length in inch */
+"1.5 - 3 \"" = "1.5 - 3 \"";
+
+/* string to be bold */
+"14" = "14";
+
+/* HelperClass-trimester of the pregnant */
+"1st trimester" = "1st trimester";
+
+/* HelperClass-trimester of the pregnant */
+"2nd trimester" = "2nd trimester";
+
+/* ContractionGraphVC-dilation length in inch */
+"3 - 4 \"" = "3 - 4 \"";
+
+/* HelperClass-trimester of the pregnant */
+"3rd trimester" = "3rd trimester";
+
+/* ContractionGraphVC-dilation length in cm */
+"4 - 7 cm" = "4 - 7 cm";
+
+/* ContractionGraphVC-dilation length in cm */
+"8 - 10 cm" = "8 - 10 cm";
+
+/* string to be bold */
+"98" = "98";
+
+/* Email disclaimer message for sending scan photo */
+"<html><body><p><span style=\"color:#808080;\"><em>COPY the image you want to send, then click PASTE to insert your photo here.</em></span></p><p><span style=\"color:#808080;\"><em>To copy a photo: go to camera roll and tap and hold the photo you&rsquo;d like to send.</em></span></p><p>&nbsp;</p><p>I hereby declare I own the attached image(s). By sending Health and Parenting Ltd. these image(s) I declare the image(s) are wholly owned by me, and I grant Health and Parenting Ltd a non-exclusive, fully paid and royalty-free, transferable, sub-licensable, worldwide licence to use my attached image(s).</p></body></html>" = "<html><body><p><span style=\"color:#808080;\"><em>COPY the image you want to send, then click PASTE to insert your photo here.</em></span></p><p><span style=\"color:#808080;\"><em>To copy a photo: go to camera roll and tap and hold the photo you&rsquo;d like to send.</em></span></p><p>&nbsp;</p><p>I hereby declare I own the attached image(s). By sending Health and Parenting Ltd. these image(s) I declare the image(s) are wholly owned by me, and I grant Health and Parenting Ltd a non-exclusive, fully paid and royalty-free, transferable, sub-licensable, worldwide licence to use my attached image(s).</p></body></html>";
+
+/* Email disclaimer message for sending scan photo */
+"<html><body><p>I found this great pregnancy application for iPhone and iPad, by Health & Parenting.</p><p>I thought you might like this as well.</p><p><a href=%@>%@</a></p></body></html>" = "<html><body><p>I found this great pregnancy application for iPhone and iPad, by Health & Parenting.</p><p>I thought you might like to download it as well.</p><p><a href=%1$@>%2$@</a></p></body></html>";
+
+/* Email signature in HTML */
+"<p>This pregnancy info is sent to you complements of Health & Parenting Ltd<br/></p>" = "<p>This pregnancy info is sent to you, compliments of Philips Consumer Lifestyle B.V.<br/></p>";
+
+/* Facebook snap text for contraction */
+"\nSent via my Pregnancy Plus App" = "\nSent via my Pregnancy + App";
+
+/* baby names sort alphabetically A-Z */
+"A-Z" = "A-Z";
+
+/* Top bar title for About Us */
+"About Us" = "About Us";
+
+/* Tier2Menu-menu button title */
+"About us" = "About us";
+
+/* Home screen action title */
+"About us and more" = "About us and more";
+
+/* Top bar title for Account Settings */
+"Account" = "Account";
+
+/* Tier2Menu-menu button title */
+"Account settings" = "Account settings";
+
+/* Action label in daily screen */
+"Action" = "Add to to-do list";
+
+/* KickCounterVC-duration still is active
+   KickCounterVC-kick is active */
+"Active" = "Active";
+
+/* Add  weight input screen title */
+"Add"="Add";
+
+/* Top bar title for Add custom item */
+"Add Item" = "Add Item";
+
+/* Add more email here... */
+"Add more..." = "Add more...";
+
+/* Top bar title for Add custom baby names */
+"Add Name" = "Add Name";
+
+/* placeholder for add note */
+"Add note here..." = "Add note here...";
+
+/* Top bar title for Add a Phone Number */
+"Add Number" = "Add Number";
+
+/* Row item in weekly */
+"Add photo" = "Add photo";
+
+/* Top bar title for add question */
+"Add question" = "Add question";
+
+/* Top bar title for Add wish */
+"Add Wish" = "Add Wish";
+
+/* AddAppointment-UIAlertview title
+   AddNumberVC-alertview title
+   Alert
+   Alert title
+   Alert view title
+   Alertview device time changed title
+   Alertview title
+   BabyNamesVC-UIAlertview title
+   ContractionHistoryVC-alertview title
+   ContractionVC-alertview title
+   ContractionVC-UIAlertview title
+   MyBirthPlan-UIAlertview title
+   UIAlertview title */
+"Alert" = "Alert";
+
+/* Copyright Text */
+"All contents copyright © Health & Parenting Ltd 2018. All rights reserved." = "All contents copyright © Health & Parenting Ltd 2018. All rights reserved.";
+
+/* alert message after app reset completed */
+"All data has been deleted. Your app has been reset to default setting." = "All data has been deleted. Your app has been reset to default settings.";
+
+/* ContractionHistoryVC-alertview message
+   ContractionVC-UIAlertview message */
+"All previous contraction had been deleted" = "All previous contractions have been deleted";
+
+/* AboutUsVC-row title */
+"All products" = "All products";
+
+/* Top bar title for All weighings */
+"All weighings" = "Weight entries";
+
+/* Country title for baby names */
+"American" = "American";
+
+/* Country list for baby names */
+"American names" = "American names";
+
+/* ContractionGraphVC-top bar navigation title */
+"Analysis" = "Overview";
+
+/* 'and' in the sentence 5 gram 'and' 6 cm
+   HelperClass-text to join week and day */
+"and" = " and ";
+
+/* profession pick list */
+"Anesthetist" = "Anesthetist";
+
+/* default selected profession
+   profession pick list */
+"anesthetist" = "anesthetist";
+
+/* Top bar title for Answer */
+"Answer" = "Answer";
+
+/* Top bar title for Add a new Appointment Card */
+"App Card" = "App Card";
+
+/* Top bar title for App Settings */
+"App Settings" = "App Settings";
+
+/* Tier2Menu-menu button title */
+"App settings" = "App settings";
+
+/* Home screen action title */
+"Appointment" = "Appointment";
+
+/* Home screen action title */
+"Appointment: %@" = "Appointment: %@";
+
+/* Appointments Tier2 Title
+   Top bar title for Appointments */
+"Appointments" = "Appointments";
+
+/* Country title for baby names */
+"Arabic" = "Arabic";
+
+/* Country list for baby names */
+"Arabic names" = "Arabic names";
+
+/* Alertview undo last kick message */
+"Are you sure you want to delete the last recorded kick?" = "Are you sure you want to delete the last recorded kick?";
+
+/* Alertview end session message
+   ContractionVC-UIAlertview message */
+"Are you sure you want to end this session?" = "Are you sure you want to end this session?";
+
+/* Prompt before resetting user password */
+"Are you sure you want to reset your password?" = "Are you sure you want to reset your password?";
+
+/* Country title for baby names */
+"Australian" = "Australian";
+
+/* Country list for baby names */
+"Australian names" = "Australian names";
+
+/* ContractionGraphVC-ave interval label */
+"Av. interval between all contractions" = "Av. interval between all contractions";
+
+/* ContractionGraphVC-ave interval label */
+"Av. interval between last 3 contractions" = "Av. interval between last 3 contractions";
+
+/* ContractionGraphVC-ave interval label */
+"Av. interval between last 5 contractions" = "Av. interval between last 5 contractions";
+
+/* ContractionGraphVC-contracion email */
+"Average duration contractions" = "Average duration contractions";
+
+/* ContractionGraphVC-ave duration label */
+"Average duration of all contractions" = "Average duration of all contractions";
+
+/* ContractionGraphVC-ave duration label */
+"Average duration of last 3 contractions" = "Average duration of last 3 contractions";
+
+/* ContractionGraphVC-ave duration label */
+"Average duration of last 5 contractions" = "Average duration of last 5 contractions";
+
+/* ContractionGraphVC-contracion email */
+"Average interval between contractions" = "Average interval between contractions";
+
+/* ContractionGraphVC-contracion email */
+"Average over all contractions" = "Average over all contractions";
+
+/* ContractionGraphVC-contracion email */
+"Average over last 3 contractions" = "Average over last 3 contractions";
+
+/* ContractionGraphVC-contracion email */
+"Average over last 5 contractions" = "Average over last 5 contractions";
+
+/* baby tab Bar Title */
+"baby" = "baby";
+
+/* Baby Top Bar Title */
+"Baby" = "Baby";
+
+/* Shopping category name */
+"Baby care" = "Baby care";
+
+/* Label title for baby gender field */
+"Baby gender" = "Baby gender";
+
+/* Top bar title for Baby names */
+"Baby Names" = "Baby Names";
+
+/* Baby Names Tier2 Title */
+"Baby Names" = "Baby Names";
+
+/* Baby size title */
+"Baby size" = "Baby size";
+
+/* Home screen action title */
+"Baby size guide: %@" = "Baby size guide:\n%@";
+
+/* Questions category name */
+"Baby worries" = "Baby worries";
+
+/* Hospital bag category name */
+"Baby's bag" = "Baby's bag";
+
+/* Label title for Baby's heart rate field
+   Top bar title for choosing a Heart Rate for baby */
+"Baby's heart" = "Baby's heart";
+
+/* alertview Backup & Overwrite button */
+"Backup & overwrite" = "Backup & overwrite";
+
+/* KickDetailVC-email message header, will append date at the end */
+"Below the results of my kick count session on " = "Below the results of my kick count session on ";
+
+/* Birth Plan Tier2 Title
+   Top bar title for Birth Plan */
+"Birth Plan" = "Birth Plan";
+
+/* AppSettingVC-export DoctorVisit header3 title */
+"Blood pressure" = "Blood pressure";
+
+/* Shopping category name */
+"Bottle feeding" = "Bottle feeding";
+
+/* Gender pick list */
+"Boy" = "Boy";
+
+/* Home screen action title */
+"Boy names" = "Boys names";
+
+/* Email table title for boys names
+   Section title for My Favorites boy's names */
+"Boys names" = "Boys names";
+
+/* Label title for Blood Pressure field
+   Top bar title for choosing a Blood Pressure for baby */
+"BP" = "BP";
+
+/* Shopping category name */
+"Breast feeding" = "Breastfeeding";
+
+/* AppSettingVC-actionsheet reset app title */
+"By pressing the reset button, you will delete all personal entered data and the application will return to the original state when you purchased it. Are you sure you want to reset the application?" = "By pressing the reset button, you will delete all personal entered data and the application will return to the original state when you purchased it. Are you sure you want to reset the application?";
+
+/* alert message if user try to switch off due date */
+"By turning the Due Date off, you will no longer follow your pregnancy. Are you sure?" = "By turning the Due Date off, you will no longer follow your pregnancy. Are you sure?";
+
+/* Top bar title for Calculate your due date */
+"Calculate" = "Calculate";
+
+/* Calculate your due date field title */
+"Calculate your due date" = "Calculate your due date";
+
+/* Country title for baby names */
+"Canadian" = "Canadian";
+
+/* Country list for baby names */
+"Canadian names" = "Canadian names";
+
+/* alertview cancel button
+   cancel button
+   Cancel reset password
+   Cancel to save account setting
+   Cancel to save appointment card
+   Cancel to save baby's BP
+   Cancel to save baby's heart rate
+   Cancel to save baby's weight
+   Cancel to save custom items
+   Cancel to save custom question
+   Cancel to save due date setting
+   Cancel to save mom's weight
+   Cancel to save phone number
+   Cancel to save pregnancy setting
+   ContractionHistoryVC-actionsheet cancel button
+   KickListVC-actionsheet cancel button
+   SignupVC-action sheet cancel button title
+   WeeklyVC-action sheet cancel button title */
+"Cancel" = "Cancel";
+
+/* AppSettingVC-actionsheet reset app cancel button */
+"CANCEL" = "CANCEL";
+
+/* AppSettingVC-export weight header3 title
+   Home screen action title */
+"Change" = "Change";
+
+/* Shopping category name */
+"Changing" = "Changing";
+
+/* No comment provided by engineer. */
+"Check your parental control settings and try again later" = "Check your parental control settings and try again later";
+
+/* Country title for baby names */
+"Chinese" = "Chinese";
+
+/* Country list for baby names */
+"Chinese names" = "Chinese names";
+
+/* action sheet pick photo button */
+"Choose Existing Photo" = "Choose Existing Photo";
+
+/* SignupVC-action sheet title pick photo source
+   WeeklyVC-action sheet title pick photo source */
+"Choose Source" = "Choose Source";
+
+/* text when birth wish is empty */
+"Click on the '+' symbol to add a birth wish" = "Click on the '+' symbol to add a birth wish";
+
+/* text when my weight is empty */
+"Click on the '+' symbol to add a new weight" = "Click on the '+' symbol to add a new weight";
+
+/* text when phone list is empty */
+"Click on the '+' symbol to add a phone number" = "Click on the '+' symbol to add a phone number";
+
+/* text when question list is empty */
+"Click on the '+' symbol to add a question" = "Click on the '+' symbol to add a question";
+
+/* text when shopping list is empty */
+"Click on the '+' symbol to add a shopping item" = "Click on the '+' symbol to add a shopping item";
+
+/* text when todo list is empty */
+"Click on the '+' symbol to add a task" = "Click on the '+' symbol to add a task";
+
+/* text when appointment list is empty */
+"Click on the '+' symbol to add an appointment" = "Click on the '+' symbol to add an appointment";
+
+/* Shopping category name */
+"Clothing" = "Clothing";
+
+/* Show week pick list */
+"Completed" = "Completed";
+
+/* CalculateVC-message4 */
+"Conception" = "Conception";
+
+/* profession pick list */
+"consultant" = "consultant";
+
+/* profession pick list */
+"Consultant" = "Consultant";
+
+/* Questions category name */
+"Contact & appointments" = "Contact & appointments";
+
+/* Error message when contact name is empty */
+"Appointment name cannot be empty" = "Appointment name cannot be empty";
+
+/* AboutUsVC-row title */
+"Contact us" = "Contact us";
+
+/* alertview continue timer button */
+"Continue" = "Continue";
+
+/* Top bar title for Kick Counter */
+"Contraction" = "Contraction";
+
+/* ContractionVC-alertview message */
+"Contraction has been saved" = "Contraction has been saved";
+
+/* alertview app active message */
+"Contraction interval exceeds 1 hour, the session will now be ended" = "Contraction interval exceeds 1 hour, the session will now end";
+
+/* alertview app active message */
+"Contraction timer in progress!" = "Contraction timer in progress!";
+
+/* Contractions Tier2 Title */
+"Contractions" = "Contractions";
+
+/* Copy Link share option */
+"Copy Link" = "Copy Link";
+
+/* Questions category name */
+"Cosmetic questions" = "Cosmetic questions";
+
+/* Create new account title in Account Setting screen */
+"Create new account" = "Create new account";
+
+/* Show week pick list */
+"Current" = "Current";
+
+/* ContractionVC-current duration label */
+"Current duration" = "Current duration";
+
+/* ContractionVC-current interval label */
+"Current interval" = "Current interval";
+
+/* Home screen action title */
+"Current weight" = "Current weight";
+
+/* string to be bold */
+"daily" = "daily";
+
+/* Daily Tier2 Title */
+"Daily" = "Daily";
+
+/* Top bar title for daily blog */
+"Daily Blog" = "Daily Blog";
+
+/* AppSettingVC-export weight header0 title
+   KickListVC-email header0 title
+   Label title for Date field */
+"Date" = "Date";
+
+/* AppSettingVC-export DoctorVisit header0 title */
+"Date & time" = "Date & time";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"daughter" = "daughter";
+
+/* Day on daily cover flow
+   Home screen action title */
+"Day" = "Day";
+
+/* HelperClass-day singular unit */
+"day" = "day";
+
+/* Day # of Cover Flow
+   Day number on top bar
+   Week # of cover flow */
+"Day %d" = "Day %d";
+
+/* single day duration unit */
+"day ago" = "day ago";
+
+/* HelperClass-day plural unit */
+"days" = "days";
+
+/* multiple days duration unit */
+"days ago" = "days ago";
+
+/* alertview app active message */
+"Device time is earlier than kick session start time" = "Device time is earlier than kick session start time";
+
+/* Edit weight input screen delete button */
+"Delete"="Delete";
+
+/* profession pick list */
+"Dietician" = "Dietician";
+
+/* profession pick list */
+"dietician" = "dietician";
+
+/* WelcomeVC-alert view fb login error dismiss button title */
+"Dismiss" = "Dismiss";
+
+/* alertview app active message */
+"Do you want to continue?" = "Do you want to continue?";
+
+/* ContractionHistoryVC-alertview message
+   ContractionVC-UIAlertview message */
+"Do you want to delete ALL the recorded contractions? This action cannot be undone" = "Do you want to delete ALL the recorded contractions? This action cannot be undone";
+
+/* ContractionVC-UIAlertview message */
+"Do you want to delete the last contraction? This action cannot be undone" = "Do you want to delete the last contraction? This action cannot be undone";
+
+/* profession pick list */
+"Doctor" = "Doctor";
+
+/* profession pick list */
+"doctor" = "doctor";
+
+/* AppSettingVC-export DoctorVisit table title */
+"DOCTORS APPOINTMENTS" = "DOCTORS APPOINTMENTS";
+
+/* Alertview 10 kick recorded dismiss button title
+   Alertview dismiss button text
+   HUD title when completed uploading profile photo */
+"Done" = "Done";
+
+/* profession pick list */
+"doula" = "doula";
+
+/* profession pick list */
+"Doula" = "Doula";
+
+/* Alert title when due date is not set
+   Due date title
+   DueDateVC-due date */
+"Due date" = "Due date";
+
+/* Due date title in Profile */
+"Due date - Profile" = "Due date";
+
+/* Due date field title
+   Label title for show week field
+   Top bar title for Due Date settings */
+"Due Date" = "Due Date";
+
+/* Home screen action title */
+"Due Date = OFF" = "Due Date = OFF";
+
+/* Home screen action title */
+"Due date: %@" = "Due date: %@";
+
+/* export table contraction header1 title
+   KickListVC-email header2 title */
+"Duration" = "Duration";
+
+/* KickDetailVC-email message header3, will append duration time at behind */
+"Duration of this session:" = "Duration of this session:";
+
+/* Add  weight input screen title */
+"Edit"="Edit";
+
+/* Top bar title for Edit a Phone Number */
+"Edit Number" = "Edit Number";
+
+/* No comment provided by engineer. */
+"Elapse time" = "Elapsed time";
+
+/* ContractionHistoryVC-actionsheet share with email button
+   KickListVC-actionsheet share with email button */
+"Email" = "Email";
+
+/* Signup error message */
+"email already taken, please login or sign up with a different email" = "email already taken, please login or sign up with a different email";
+
+/* Error message when email is empty */
+"Email cannot be empty" = "Email cannot be empty";
+
+/* alertview-email fail title */
+"Email Failure" = "Email Failure";
+
+/* LoginVC-login fail error msg */
+"Email or password is incorrect" = "Email or password is incorrect";
+
+/* Country title for baby names */
+"English" = "British";
+
+/* Country list for baby names */
+"English names" = "British names";
+
+/* Home screen action title */
+"Enter your next appointment" = "Enter your next appointment";
+
+/* Home screen action title */
+"Enter your weight" = "Enter your weight";
+
+/* Reset password error message */
+"Error resetting password. Please try again later" = "Error resetting password. Please try again later";
+
+/* alert message when there is an error restoring in app purchase */
+"Error restoring your purchase" = "Error restoring your purchase";
+
+/* Alert title when in app purchased failed */
+"Error!" = "Error!";
+
+/* AppSettingVC-export all data to email(title) */
+"Export all data to email" = "Export all data to email";
+
+/* AppSettingVC-export data email subject
+   AppSettingVC-export html header */
+"Export of data from Pregnancy App" = "Export of data from Pregnancy+ App";
+
+/* export to email button */
+"Export to email" = "Export to email";
+
+/* InviteView - invite friend via facebook */
+"facebook" = "Facebook";
+
+/* ContractionHistoryVC-actionsheet share to facebook button
+   KickListVC-actionsheet share to facebook button */
+"Facebook" = "Facebook";
+
+/* InviteContactVC-title facebook friends */
+"Facebook friends" = "Facebook friends";
+
+/* AddAppointment-UIAlertview message for Appointment failed add to calendar */
+"Failed to sync this appointment to calender" = "Failed to sync this appointment to calendar";
+
+/* error message when database upgrade has failed */
+"Failed to upgrade your old data to the new database.%@" = "Failed to upgrade your old data to the new database.%@";
+
+/* Home screen action title */
+"FAQ's, rate the App, other Apps" = "FAQs, rate App, other Apps";
+
+/* FAQs title in Setting screen */
+"FAQs" = "FAQs";
+
+/* Relationship pick list */
+"Father" = "Father";
+
+/* AboutUsVC-feedback email subject */
+"Feedback H&P Pregnancy iPhone App" = "Feedback H&P Pregnancy iOS App";
+
+/* Female */
+"Female" = "Female";
+
+
+/* AppSettingVC-export DoctorVisit header4 title */
+"Fetal heart" = "Fetal heart";
+
+/* Label title for first name field */
+"First name" = "First name";
+
+/* Error message when first name is empty */
+"First name cannot be empty" = "First name cannot be empty";
+
+/* Alert message when no birthplan has been selected */
+"First select a few birth wishes from the list" = "First select a few birth wishes from the list";
+
+/* Alert message when no favorite name has been selected */
+"First select a few names from the country lists" = "First select a few names from the country lists";
+
+/* Questions category name */
+"Food questions" = "Food questions";
+
+/* Country title for baby names */
+"French" = "French";
+
+/* Country list for baby names */
+"French names" = "French names";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"friend" = "friend";
+
+/* Relationship pick list */
+"Friend of mother" = "Friend";
+
+/* HelperClass-contraction email html signature
+   HelperClass-kickcounter email html signature
+   KickDetailVC-kick email singature text */
+"from" = "from";
+
+/* Shopping category name */
+"Furniture" = "Furniture";
+
+/* Questions category name */
+"General questions" = "General questions";
+
+/* Country title for baby names */
+"German" = "German";
+
+/* Country list for baby names */
+"German names" = "German names";
+
+/* InviteVC-progress alert msg */
+"Getting facebook friend list, please wait a moment" = "Getting facebook friend list, please wait a moment";
+
+/* Gender pick list */
+"Girl" = "Girl";
+
+/* Home screen action title */
+"Girl names" = "Girls names";
+
+/* Email table title for girls names
+   Section title for My Favorites girl's names */
+"Girls names" = "Girls names";
+
+/* CalculateVC-message1 */
+"Give the first day of your last period" = "Enter the 1st day of your last period";
+
+/* Relationship pick list */
+"Grandparent" = "Grandparent";
+
+/* Guide Tier2 Title */
+"Guide" = "Guide";
+
+/* TierTwo-Guide top bar title */
+"Guides" = "Guides";
+
+/* profession pick list */
+"Health vistor" = "Health visitor";
+
+/* profession pick list */
+"health vistor" = "health visitor";
+
+/* Hello greetings in Today page */
+"Hello" = "Hello";
+
+/* Country title for baby names */
+"Hispanic" = "Hispanic";
+
+/* Country list for baby names */
+"Hispanic names" = "Hispanic names";
+
+/* ContractionHistoryVC-top bar navigation title
+   Navigation bar history button */
+"History" = "History";
+
+/* profession pick list */
+"hospital" = "hospital";
+
+/* profession pick list */
+"Hospital" = "Hospital";
+
+/* AppSettingVC-export hospitalbag table title */
+"HOSPITAL BAG" = "HOSPITAL BAG";
+
+/* Hospital Bag Tier2 Title
+   Top bar title for Hospital Bag */
+"Hospital Bag" = "Hospital Bag";
+
+/* Number of hours */
+"hour" = "hour";
+
+/* single hour duration unit */
+"hour ago" = "hour ago";
+
+/* multiple hours duration unit */
+"hours ago" = "hours ago";
+
+/* ContractionVC-hr unit */
+"hr" = "hr";
+
+/* ContractionVC-hrs unit */
+"hrs" = "hrs";
+
+
+/* facebook share message */
+"I found this great pregnancy application by Health & Parenting. A perfect App to help you and your baby have a safe and healthy pregnancy." = "I found this pregnancy application by Health & Parenting. I thought you might like to download it as well.";
+
+/* ContractionGraphVC-contracion email header */
+"I'm in labour! These are my contractions" = "I'm in labor! These are my contractions";
+
+/* Button title to open address book to import contact */
+"Import from address book" = "Import from address book";
+
+/* Home screen action title */
+"Important phone numbers" = "Important phone numbers";
+
+/* alertview when user logout account */
+"Important! Personal data cannot be saved, if you use the app without an account. Are you sure you want to log out?" = "Important! Personal data cannot be saved, when using the App without an account. Are you sure you want to log out?";
+
+/* Number of kick IN x minutes */
+"in" = "in";
+
+/* No comment provided by engineer. */
+"In-App Purchasing disabled" = "In-App Purchasing disabled";
+
+/* Top bar title for Information
+   Top bar title for Information list page */
+"Information" = "Information";
+
+/* export table contraction header2 title */
+"Interval" = "Interval";
+
+/* ContractionVC-alertview message */
+"Interval exceeds 1 hour, the session will now be ended" = "Interval exceeds 1 hour, the session will now end";
+
+/* Invite friends title in Account Setting screen */
+"Invite Friends" = "Invite Friends";
+
+/* ShoppingListVC-email subject, will append category name at front */
+"items to buy" = "items to buy";
+
+/* Country title for baby names */
+"Japanese" = "Japanese";
+
+/* Country list for baby names */
+"Japanese names" = "Japanese names";
+
+/* alertview Overwrite button */
+"Just overwrite" = "Just overwrite";
+
+/* HPWeight-weight unit */
+"kg" = "kg";
+
+/* Top bar title for Kick Detail */
+"Kick" = "Kick";
+
+/* KickDetailVC-email subject and will append date on back */
+"Kick Count Session " = "Kick Count Session ";
+
+/* Kick Counter Tier2 Title
+   Top bar title for Kick Counter */
+"Kick Counter" = "Kick Counter";
+
+/* Top bar title for Kick History */
+"Kick History" = "Kick History";
+
+/* No comment provided by engineer. */
+"Kick moment" = "Kick moment";
+
+/* No comment provided by engineer. */
+"Kick number" = "Kick number";
+
+/* alertview app active message */
+"Kick session and contraction timer in progress!" = "Kick session and contraction timer in progress!";
+
+/* alertview app active message */
+"Kick session has expired!" = "Kick session has expired!";
+
+/* Alertview time's up title */
+"Kick Session have time limit" = "Kick Session has a time limit";
+
+/* alertview app active message */
+"Kick session in progress!" = "Kick session in progress!";
+
+/* KickListVC-email header3 title */
+"Kicks" = "Kicks";
+
+/* Contraction labour text */
+"Labour has started!" = "Labor has started!";
+
+/* Facebook snap text for contraction */
+"Labour has started! The last contraction was %@ %@." = "Labor has started! The last contraction was %1$@ %2$@.";
+
+/* Facebook message text for contraction */
+"The last contraction was %@ %@." = "The last contraction was %1$@ %2$@.";
+
+/* ContractionGraphVC-contracion email */
+"Labour information" = "Labor information";
+
+/* Questions category name */
+"Labour questions" = "Labor questions";
+
+/* Label title for last name field */
+"Last name" = "Last name";
+
+/* Error message when last name is empty */
+"Last name cannot be empty" = "Last name cannot be empty";
+
+/* CalculateVC-message2 */
+"Last Period" = "Last Period";
+
+/* HPWeight-weight unit */
+"lbs" = "lbs";
+
+/* lbs in segmented control */
+"lbs-sc" = "lb";
+
+/* Baby's Length */
+"Length" = "Length";
+
+/* AppSettingVC-Length units setting title */
+"Length units" = "Length units";
+
+/* Length label for size guide */
+"Length: %@" = "Length: %@";
+
+/* success message after user copy link */
+"Link copied to clipboard" = "Link copied to clipboard";
+
+/* WelcomeVC-alert view fb login error title */
+"Log In Error" = "Login Error";
+
+/* Logout title in Account Setting screen */
+"Log out everywhere" = "Log out everywhere";
+
+/* title label on first-time screen */
+"Log your weight"="Log your weight";
+
+/* title label on first-time screen */
+"Log mum's weight"="Log mom's weight";
+
+/* HUD title for logging in using email
+   HUD title for logging into facebook
+   HUD title for logging into twitter */
+"Logging in..." = "Logging in...";
+
+/* Top bar title for Account Login */
+"Login" = "Login";
+
+/* Login to my account title in Account Setting screen */
+"Login to my account" = "Login to my account";
+
+/* Male */
+"Male" = "Male";
+
+/* No comment provided by engineer. */
+"Master" = "Master";
+
+/* Me Top Bar Title */
+"Me" = "Me";
+
+/* me tab Bar Title */
+"me" = "me";
+
+/* Questions category name */
+"Medication & Supplements" = "Medication & Supplements";
+
+/* profession pick list */
+"midwife" = "midwife";
+
+/* profession pick list */
+"Midwife" = "Midwife";
+
+/* ContractionGraphVC-min unit
+   ContractionVC-min unit */
+"min" = "min";
+
+/* single hour duration unit */
+"min ago" = "min ago";
+
+/* ContractionGraphVC-mins unit
+   ContractionVC-mins unit
+   number of minutes */
+"mins" = "mins";
+
+/* profession pick list */
+"Monographer" = "Sonographer";
+
+/* profession pick list */
+"monographer" = "sonographer";
+
+/* Month # of belly photo */
+"Month %d" = "Month %d";
+
+/* Home screen action title */
+"Month %d of pregnancy" = "Month %d\nof pregnancy";
+
+/* More Top Bar Title */
+"More" = "More";
+
+/* more tab Bar Title */
+"more" = "more";
+
+/* Relationship pick list */
+"Mother" = "Mother";
+
+/* Hospital bag category name */
+"Mother's bag" = "Mother's bag";
+
+/* table label when adding new weight data */
+"Mum's weight"="Mom's weight";
+
+/* KickDetailVC-FB sharing message
+   KickListVC-facebook sharing message */
+"My baby is kicking!" = "My baby is kicking!";
+
+/* FavNameVc-email subject */
+"My baby name list" = "My baby name list";
+
+/* My Belly Tier2 Title */
+"My Belly" = "My Belly";
+
+/* BirthPlanVC-birth plan email subject
+   BirthPlanVC-Birth Plan table title
+   My birth plan row text */
+"My birth plan" = "My birth plan";
+
+/* Top bar title for My Birth Plan */
+"My Birth Plan" = "My Birth Plan";
+
+/* InviteContactVC-title my contacts */
+"My Contacts" = "My Contacts";
+
+/* AppSetting-export table contraction title */
+"MY CONTRACTION HISTORY" = "MY CONTRACTION HISTORY";
+
+/* ContractionGraphVC-email subject */
+"My Contraction!" = "My Contraction!";
+
+/* Top bar title for My Favorites name */
+"My Favorites" = "My Favorites";
+
+/* AppSettingVC-export baby name table title */
+"MY FAVOURITE BABY NAMES" = "MY FAVORITE BABY NAMES";
+
+/* row title to show my favourite names */
+"My favourite names" = "My favorite names";
+
+/* HospitalBagVC-email subject */
+"My hospital bag" = "My hospital bag";
+
+/* KickListVC-email subject */
+"My kick count history" = "My kick count history";
+
+/* KickListVC-email content title */
+"MY KICK COUNT HISTORY" = "MY KICK COUNT HISTORY";
+
+/* KickListVC-email content title */
+"My kick count history:" = "My kick count history:";
+
+/* AppSettingVC-export todo table title */
+"My list" = "My list";
+
+/* AppSettingVC-export Birth Plan table title */
+"MY PERSONAL BIRTH PLAN" = "MY PERSONAL BIRTH PLAN";
+
+/* Share weekly email subject */
+"My pregnancy info week %d" = "My pregnancy info week %d";
+
+/* Share weekly note email subject */
+"My pregnancy note week %d" = "My pregnancy note week %d";
+
+/* My questions button */
+"My questions" = "My questions";
+
+/* Email table title for my questions
+   My Questions Export email subject */
+"My Questions" = "My Questions";
+
+/* AppSettingVC-export shopping table title */
+"MY SHOPPING LIST" = "MY SHOPPING LIST";
+
+/* ShoppingVC-email shopping table title
+   ShoppingVC-email subject */
+"My shopping list" = "My shopping list";
+
+/* HospitalBagVC-email hospitalbag table title */
+"My short list" = "My short list";
+
+/* ToDoListVCemail subject */
+"My to do list" = "My to do list";
+
+/* AppSettingVC-export todo table title */
+"MY TO-DO LIST" = "MY TO-DO LIST";
+
+/* My Weight Tier2 Title */
+"My Weight" = "My Weight";
+
+/* AppSettingVC-export DoctorVisit header2 title
+   Home screen action title
+   Label title for My weight field
+   Top bar title for My Weight */
+"My weight" = "My weight";
+
+/* AppSettingVC-export weight table title */
+"MY WEIGHT ENTRIES" = "MY WEIGHT ENTRIES";
+
+/* AppSettingVC-export contacts header0 title
+   AppSettingVC-export DoctorVisit header1 title
+   Label title for name field */
+"Name" = "Name";
+
+/* Top bar title for entering mom's weight */
+"New input" = "New input";
+
+/* Top bar title for adding new todo item */
+"New To-do" = "New To-do";
+
+/* Next button to go to next belly photo */
+"Next" = "Next";
+
+/* ContractionHistoryVC-alertview cancel button
+   ContractionVC-UIAlertview cancel button
+   KickListVC-email kick not success */
+"NO" = "NO";
+
+/* alertview cancel button
+   Alertview cancel button
+   alertview retain button */
+"No" = "No";
+
+/* no due date message when my weight is selected */
+"No Due Date has been selected in Settings" = "No Due Date has been selected in Settings";
+
+/* Home screen action title */
+"No items to buy" = "No items selected";
+
+/* Home screen action title */
+"No items to do" = "No tasks selected";
+
+/* HTML table no record */
+"No Record" = "No Record";
+
+/* No user found error string return from server */
+"No user found with email %@" = "No user found with email %@";
+
+/* Questions category name */
+"Not feeling well" = "Not feeling well";
+
+/* response not to setup due date now */
+"Not now" = "Not now";
+
+/* AppSettingVC-export DoctorVisit header5 title
+   export table personal note header1 title */
+"Note" = "Note";
+
+/* Label title for phone number field */
+"Number" = "Number";
+
+/* profession pick list */
+"Nurse" = "Nurse";
+
+/* profession pick list */
+"nurse" = "nurse";
+
+/* profession pick list */
+"Obstetrician" = "Obstetrician";
+
+/* profession pick list */
+"obstetrician" = "obstetrician";
+
+/* ContractionVC-UIAlertview cancel button */
+"ok" = "ok";
+
+/* AddNumberVC-alertview dismiss button title
+   alertview OK button
+   alertview-email fail dismiss button
+   OK
+   OK Button
+   TiewTwo-alertview dismiss button title
+   UIAlertview dismiss button title */
+"OK" = "OK";
+
+/* AddAppointment-UIAlertview dismiss button title
+   alertview cancel button
+   Alertview device time changed dismiss button
+   Alertview dismiss button
+   alertview ok button
+   BabyNameVC-UIAlertview dismiss button title
+   ContractionHistoryVC-alertview ok button
+   ContractionVC-alertview cancel button
+   ContractionVC-cancel button
+   MyBirthPlan-UIAlertview dismiss button title
+   setup now */
+"Ok" = "Ok";
+
+/* Home screen action title */
+"Only %d dasys left!" = "Only %d days left!";
+
+/* Home screen action title */
+"Only %d month left!" = "Only %d months left!";
+
+/* string to be bold */
+"Oops!..." = "Oops!...";
+
+/* IAP message for Birth Plan */
+"Oops!... Upgrade the App to create your birth plan." = "Oops!... Upgrade the App to create your birth plan.";
+
+/* IAP message for Contraction Timer */
+"Oops!... You need to upgrade to use the contraction timer." = "Oops!... You need to upgrade to use the contraction timer.";
+
+/* IAP message for Kick Counter */
+"Oops!... You need to upgrade to use the kick counter." = "Oops!... You need to upgrade to use the kick counter.";
+
+/* IAP message for Weekly */
+"Oops!...\nOnly the first 14 weeks are free..." = "Oops!...\nOnly the first 14 weeks are free...";
+
+/* IAP message for Daily */
+"Oops!...\nOnly the first 98 days are free..." = "Oops!...\nOnly the first 98 days are free...";
+
+/* Or calculate your due date */
+"Or..." = "Or...";
+
+/* choose from list of questions */
+"Or... choose from the list" = "Or... choose from the list";
+
+/* CalculateVC-message3 */
+"Or... the date of conception" = "Or... the date of conception";
+
+/* Birth plan category name
+   profession pick list
+   Shopping category name */
+"Other" = "Other";
+
+/* profession pick list */
+"other" = "other";
+
+/* Top bar title for Other Apps */
+"Other Apps" = "Other Apps";
+
+/* Tier2Menu-menu button title */
+"Other Apps by us" = "Other Apps by us";
+
+/* alertview Overwrite button */
+"Overwrite" = "Overwrite";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"partner" = "partner";
+
+/* Relationship pick list */
+"Partner of mother" = "Partner";
+
+/* Hospital bag category name */
+"Partner's bag" = "Partner's bag";
+
+/* Top bar title for Reset Password */
+"Password" = "Password";
+
+/* Error message when password is empty */
+"Password cannot be empty" = "Password cannot be empty";
+
+/* profession pick list */
+"pediatrician" = "pediatrician";
+
+/* profession pick list */
+"Pediatrician" = "Pediatrician";
+
+/* AppSetting-export table personal note title */
+"PERSONAL NOTE" = "PERSONAL NOTE";
+
+/* Phone Tier2 Title */
+"Phone" = "Phone";
+
+/* AppSettingVC-export contacts header2 title */
+"Phone number" = "Phone number";
+
+/* Error message when phone number is empty */
+"Phone number cannot be empty" = "Phone number cannot be empty";
+
+/* Top bar title for Phone Numbers */
+"Phone Numbers" = "Phone";
+
+/* AppSettingVC-export contacts table title */
+"PHONE NUMBERS" = "PHONE NUMBERS";
+
+/* profession pick list */
+"physiotherapist" = "physiotherapist";
+
+/* profession pick list */
+"Physiotherapist" = "Physiotherapist";
+
+/* play tab Bar Title */
+"play" = "video";
+
+/* AddAppointment-user disallow app to access calendar */
+"Please enable this app to access your calendar in 'Settings > Privacy > Calendars'" = "Please enable this app to access your calendar in 'Settings > Privacy > Calendars'";
+
+/* Pop up disclaimer title */
+"Please note" = "Please note";
+
+/* Pop up disclaimer main text */
+"Please note that this App is not a medical device. We have no control over how you use the App.\n\nYou are solely responsible for the correctness and completeness of your entries, and the manner in which you use the App may give inaccurate readings – please review our guide on how to use the App carefully.\n\nPlease make sure to never soley rely on the App alone, e.g. for your kick, contraction, appointments and weight records, and to rely upon your nominated medical professional advisor." = "Please note that this App is not a medical device. We have no control over how you use the App.\n\nYou are solely responsible for the correctness and completeness of your entries, and the manner in which you use the App may give inaccurate readings – please review our guide on how to use the App carefully.\n\nPlease make sure to never solely rely on the App alone, e.g. for your kick, contraction, appointments and weight records, and to rely upon your nominated medical professional advisor.";
+
+/* Rate us title in Setting screen */
+"Please rate us here" = "Please rate us here";
+
+/* Error message when user has not choose a profession */
+"Please select a profession" = "Please select a profession";
+
+/* Home screen action title */
+"Please set your Due Date" = "Please set your Due Date";
+
+/* message if due date is not yet set in Today page */
+"please take a minute to enter the due date in: more > settings" = "please take a minute to enter the Due Date in Settings: Pregnancy & due date";
+
+/* reminder text for setup due date */
+"Please take a minute to set up your due date in settings page" = "Please take a minute to set up your due date in: more > pregnancy settings";
+
+/* Error message when Terms is not ticked */
+"Please tick box to agree Terms and Conditions at the bottom of the screen to use this app" = "Please tick the box to agree to the Terms and Conditions at the bottom of the screen to use this app.";
+
+/* Label title for Pre-Pregnancy Weight */
+"Pre-pregnancy weight"="Pre-pregnancy weight";
+
+/* Top bar title for Pregnancy Settings */
+"Pregnancy" = "Pregnancy";
+
+/* App name without plus */
+"Pregnancy appname" = "Pregnancy";
+
+/* AboutUsVC-share to friend email subject */
+"Pregnancy iPhone application" = "Pregnancy Application";
+
+/* Invite facebook friend message */
+"Pregnancy is a shared journey. Please join now by downloading this app." = "Pregnancy is a shared journey. Please join now by downloading this App.";
+
+/* HelperClass-contraction email html signature
+   HelperClass-kickcounter email html signature
+   KickDetailVC-kick email singature text */
+"Pregnancy Plus Application" = "Pregnancy + Application";
+
+/* Tier2Menu-menu button title */
+"Pregnancy settings" = "Pregnancy settings";
+
+/* HelperClass-get welcome screen message, will append week/day past at front and trimester at back */
+"pregnant" = "pregnant";
+
+/* AboutUs-Privacy policy title
+   AboutUsVC-row title */
+"Privacy Policy" = "Privacy Policy";
+
+/* AppSettingVC-export contacts header1 title
+   Label title for profession field */
+"Profession" = "Profession";
+
+/* AddAppointment-calendar event notes */
+"Profession: %@\nNotes: %@\n\nfrom HP Pregnancy Plus" = "Profession: %1$@\nNotes: %2$@\n\nfrom HP Pregnancy +";
+
+/* When the buy/view price button is pressed */
+"Purchase in progress..." = "Purchase in progress...";
+
+/* AppSetting-push notification setting title */
+"Push notifications" = "Push notifications";
+
+/* Top bar title for Questions */
+"Questions" = "Questions";
+
+/* Home screen action title */
+"Quick access to your numbers" = "Quick access to your numbers";
+
+/* Home screen action title */
+"Read about week %d" = "Read about week %d";
+
+/* Home screen action title */
+"Read our daily blog" = "Read our daily blog";
+
+/* Alert view title for reminder to setup due date */
+"Reminder" = "Reminder";
+
+/* action sheet pick photo button */
+"Remove Photo" = "Remove Photo";
+
+/* Confirm Reset password */
+"Reset" = "Reset";
+
+/* AppSettingVC-reset app(title)
+   Reset App title in Account Setting screen */
+"Reset App" = "Reset App";
+
+/* Reset Password Alert View title */
+"Reset Password" = "Reset password";
+
+/* HUD title for resetting password */
+"Resetting..." = "Resetting...";
+
+/* Alert message when in app purchase restore completed */
+"Restore completed" = "Restore completed";
+
+/* HUD title when completed restoring database */
+"Restore Done" = "Restore Done";
+
+/* HUD title when fail restoring database */
+"Restore Failed" = "Restore Failed";
+
+/* HUD title for restoring database */
+"Restoring database..." = "Restoring database...";
+
+/* alertview retain button */
+"Retain" = "Retain";
+
+/* No comment provided by engineer. */
+"Review request approved" = "Review request approved";
+
+/* Message when RSS feed is not available */
+"RSS Feed not available" = "RSS Feed not available";
+
+/* Shopping category name */
+"Safety" = "Safety";
+
+/* Right button to save account setting
+   Right button to save appointment card
+   Right button to save baby's BP
+   Right button to save baby's heart rate
+   Right button to save baby's weight
+   Right button to save custom question
+   Right button to save mom's weight
+   Right button to save phone number
+   Right button to save pregnancy setting
+   Save the weekly note
+   Save to save custom items
+   Save to save due date setting */
+"Save" = "Save";
+
+/* Message when saving pregnancy setting */
+"Saving..." = "Saving...";
+
+/* Email subject for sending scan photo */
+"Scan image" = "Scan image";
+
+/* Scans Tier2 Title */
+"Scans" = "Images";
+
+/* ContractionGraphVC-sec unit
+   ContractionVC-sec unit */
+"sec" = "sec";
+
+/* ContractionGraphVC-secs unit
+   ContractionVC-secs unit */
+"secs" = "secs";
+
+
+/* See all help topics button */
+"See all help topics" = "See all help topics";
+
+/* Home screen action title */
+"See daily info page" = "See daily info page";
+
+/* Home screen action title see more baby weekly image */
+"See more of..." = "See more of...";
+
+/* section title for birth plan */
+"Select birth wishes..." = "Select birth wishes...";
+
+/* Home screen action title */
+"Select things to do here" = "Select things to do here";
+
+/* Home screen action title */
+"Select your items here" = "Select your items here";
+
+/* Home screen action title */
+"Select your names here" = "Select your names here";
+
+/* Home screen action title */
+"Select your numbers here" = "Select your numbers here";
+
+/* Send button to send email invitation */
+"Send" = "Send";
+
+/* Top bar title for Invite friends */
+"Send Invitation" = "Send Invitation";
+
+/* Facebook friend request message title */
+"Send Requests" = "Send Requests";
+
+/* KickDetailVC-FB sharing message
+   KickListVC-facebook sharing message
+   Weekly-share note signature
+   WeeklyVC-FB sharing message */
+"Sent via my Pregnancy Plus App" = "Sent via my Pregnancy + App";
+
+/* alertview when server has more recent database */
+"Server database has been changed, do you want to overwrite?" = "Server database has been changed, do you want to overwrite?";
+
+/* Alertview session end title */
+"Session ended!" = "Session ended!";
+
+/* Set Due date field title */
+"Set Due Date" = "Set Due Date";
+
+/* Settings Tier2 Title
+   Tier2Menu-top bar title */
+"Settings" = "Settings";
+
+/* Share button */
+"Share" = "Share";
+
+/* Row item in weekly */
+"Share note" = "Share note";
+
+/* AboutUsVC-row title
+   Share on Facebook share option */
+"Share on Facebook" = "Share on Facebook";
+
+/* Row item in weekly */
+"Share weekly info" = "Share weekly info";
+
+/* ContractionHistoryVC-actionsheet title
+   KickListVC-actionsheet title */
+"Share with?" = "Share with?";
+
+/* Shopping Tier2 Title
+   Top bar title for Shopping */
+"Shopping" = "Shopping";
+
+/* Label title for show week field */
+"Show week" = "Show week";
+
+/* Top bar title for Sign up */
+"Sign up" = "Sign up";
+
+/* Top bar title for Account Sign Up */
+"Sign Up" = "Sign Up";
+
+/* HUD title for signing up using email */
+"Signing up..." = "Signing up...";
+
+/* Signup error message */
+"Signup error, please try again later" = "Signup error, please try again later";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"sister" = "sister";
+
+/* Size Tier2 Title */
+"Size" = "Size";
+
+/* Top bar title for Size Guide */
+"Size Guide" = "Size Guide";
+
+/* Shopping category name */
+"Sleeping" = "Sleeping";
+
+/* Stones unit */
+"st" = "st";
+
+/* ContractionVC-start button
+   ContractionVC-start button title */
+"Start" = "Start";
+
+/* export table contraction header0 title */
+"Start and end time" = "Start and end time";
+
+/* Label title for the start date (LMP) to add my starting weight */
+"Start date (LMP)"="Start date (LMP)";
+
+/* KickListVC-email header1 title */
+"Start Time" = "Start Time";
+
+/* KickDetailVC-email message header2, will append start time at behind */
+"Start time of this session:" = "Start time of this session:";
+
+/* Weight first-time screen subtitle */
+"Start today!" = "Start today!";
+
+/* alertview stop button title
+   ContractionVC-stop button */
+"Stop" = "Stop";
+
+/* alert title when app reset completed
+   Suceess alert view title */
+"Success" = "Success";
+
+/* KickListVC-email header4 title */
+"Successful" = "Successful";
+
+/* Alertview 10 kick recorded title */
+"Successful session!" = "Successful session!";
+
+/* AddAppointment-UIAlertview message for Appointment added to calendar */
+"Successfully synced this appointment to calender" = "Appointment successfully synced to calendar";
+
+/* Label title for sync to calendar on/off field */
+"Sync to calender" = "Sync to calendar";
+
+/* action sheet pick photo button */
+"Take Photo" = "Take Photo";
+
+/* AboutUsVC-row title */
+"Tell a friend" = "Tell a friend";
+
+/* Tell a friend share option */
+"Tell a Friend" = "Tell a Friend";
+
+/* AboutUs-T&C title */
+"Terms & Conditions" = "Terms & Conditions";
+
+/* AboutUsVC-row title */
+"Terms of use" = "Terms of Use";
+
+/* Alert title after user purchased. */
+"Thanks!" = "Thanks!";
+
+/* The baby just kicked text */
+"The baby just kicked" = "The baby just kicked";
+
+/* alert message after user purchased. */
+"The extra features are now available" = "The extra features are now available";
+
+/* ContractionVC-UIAlertview message */
+"The last contraction had been deleted" = "The last contraction has been deleted";
+
+/* The last contraction was title */
+"The last contraction was" = "The last contraction was";
+
+/* Alert message when there are no contraction data */
+"There are no contraction data to share" = "There's no contraction data to share";
+
+/* Alert message when there are no kick data */
+"There are no kick data to share" = "There's no kick info to share";
+
+/* Alert message when there are no notes/photo */
+"There are no notes/photo to share" = "There are no notes/photos to share";
+
+/* InviteContactVC-get 0 contact error msg */
+"There are no record in your contact list" = "There are no records in your contact list";
+
+/* InviteContactVC-get 0 contact error msg */
+"There are no record in your facebook friend list" = "There are no records in your facebook friends list";
+
+/* HelperClass-contraction email html signature */
+"These contractions are recorded with my" = "These contractions are recorded with my";
+
+/* HelperClass-kickcounter email html signature */
+"These kick count sessions were recorded with my" = "These kick count sessions were recorded with my";
+
+/* alertview-email fail message */
+"This device is not configured for sending email. Please add an email account in your device Settings first." = "This device is not configured for sending email. Please add an email account to your device Settings.";
+
+/* Disclaimer Text */
+"This information is not intended to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalized medical advice." = "This information is not intended to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalized medical advice.";
+
+/* KickDetailVC-kick email singature text */
+"This kick count session was recorded with my" = "This kick count session was recorded with my";
+
+/* AboutUsVC-info text */
+"This pregnancy application is created by Health & Parenting Ltd. together with leading healthcare professionals. The purpose of the application is to give expecting parents a comprehensive guide during their pregnancy.\n\nIf you regard this application helpful and would like to recommend this App to other parents, please take a moment to rate us.\n\nThe team of Health & Parenting wish you a healthy and full-term pregnancy and a safe delivery." = "This pregnancy application is created by Health & Parenting Ltd. together with leading healthcare professionals. The purpose of the application is to give expecting parents a comprehensive guide during their pregnancy.\n\nIf you regard this application helpful and would like to recommend this App to other parents, please take a moment to rate us.\n\nThe team of Health & Parenting wish you a healthy and full-term pregnancy and a safe delivery.";
+
+/* Label title for Time field */
+"Time" = "Time";
+
+/* Timeline Tier2 Title */
+"Timeline" = "Timeline";
+
+/* Number of times kicked */
+"Times" = "Times";
+
+/* To Do Tier2 Title */
+"To Do" = "To Do";
+
+/* Top bar title for To-do list */
+"To-do List" = "To-do List";
+
+/* today tab Bar Title */
+"today" = "today";
+
+/* KickCounter-text
+   Today Top Bar Title */
+"Today" = "Today";
+
+/* Top 100 baby names */
+"Top 100" = "Top 100";
+
+/* Top 500 baby names */
+"Top 500" = "Top 500";
+
+/* Shopping category name */
+"Toys" = "Toys";
+
+/* Shopping category name */
+"Travel" = "Travel";
+
+/* When the restore button is pressed */
+"Trying to restore..." = "Trying to restore...";
+
+/* Gender pick list */
+"Twin" = "Twins";
+
+/* InviteView - invite friend via twitter */
+"Twitter" = "Twitter";
+
+/* placeholder for adding answer */
+"Type answer..." = "Type answer...";
+
+/* Placeholder for user  name field */
+"Type here..." = "Type here...";
+
+/* placeholder for add new question */
+"Type question here..." = "Type question here...";
+
+/* WelcomeVC-alert view fb login error messgae */
+"Uh oh. The user cancelled the Facebook login." = "Oops... The user cancelled the Facebook login.";
+
+/* WelcomeVC-alert view tw login error messgae */
+"Uh oh. The user cancelled the Twitter login." = "Oops... The user cancelled the Twitter login.";
+
+/* Save pregnancy setting failure message */
+"Unable to save pregnancy setting, please try again later." = "Unable to save your pregnancy settings, please try again later.";
+
+/* Photo upload failure message */
+"Unable to upload photo, please try again later." = "Unable to upload photo, please try again later.";
+
+/* Relationship pick list */
+"Uncle or Aunt" = "Uncle or Aunt";
+
+/* AppSettingVC-todo list header */
+"uncompleted to-do items" = "uncompleted to-do items";
+
+/* Gender pick list */
+"Unknown" = "Unknown";
+
+/* Label title for HPWeight unit */
+"Units for weight" = "Units for weight";
+
+/* Alert view title when database upgrade has failed */
+"Upgrade failed" = "Upgrade failed";
+
+/* HUD title for uploading profile photo */
+"Uploading photo..." = "Uploading photo...";
+
+/* Alert message when in app purchase failed */
+"User Cancelled Transaction" = "User Cancelled Transaction";
+
+/* Error message when verify password does not match */
+"Verify password does not match be empty" = "Password does not match. Try again";
+
+/* Top bar title for Invite via email */
+"Via Email" = "Via Email";
+
+/* InviteView - invite friend via email */
+"Via email" = "Via email";
+
+/* View push notification message */
+"View" = "View";
+
+
+/* AboutUsVC-row title
+   Row item in weekly */
+"Visit our daily blog" = "Visit our daily blog";
+
+/* Row item in daily */
+"Visit Our Daily Blog" = "Visit Our Daily Blog";
+
+/* AboutUsVC-row title */
+"Watch our videos" = "Watch our videos";
+
+/* HelperClass-week singular unit */
+"week" = "week";
+
+/* export table personal note header0 title
+   Home screen action title
+   Week on weekly cover flow */
+"Week" = "Week";
+
+/* Week # of cover flow
+   Week # of Cover Flow
+   Week number in My notes
+   Week number on top bar
+   Week number on top bar of timeline */
+"Week %d" = "Week %d";
+
+/* Home screen action title */
+"Week %d image" = "Week %d image";
+
+/* Weekly Tier2 Title */
+"Weekly" = "Weekly";
+
+/* HelperClass-week plural unit */
+"weeks" = "weeks";
+
+/* AppSettingVC-export weight header1 title
+   Weeks title */
+"Weeks" = "Weeks";
+
+/* AppSettingVC-export weight header2 title
+   Baby's Weight
+   Top bar title for choosing baby's weight */
+"Weight" = "Weight";
+
+/* Place holder title for weight field */
+"weight" = "weight";
+
+/* AppSetting-weight units setting title */
+"Weight units" = "Weight units";
+
+/* Weight label for size guide */
+"Weight: %@" = "Weight: %@";
+
+/* Top bar title for Welcome screen */
+"Welcome" = "Welcome";
+
+/* What is a birth plan row text */
+"What is a birth plan" = "What is a birth plan";
+
+/* string to be bold */
+"What's a hospital bag?..." = "What's a hospital bag?...";
+
+/* IAP message for Hospital bag */
+"What's a hospital bag?...\nUpgrade now to use this tool." = "What's a hospital bag?...\nUpgrade now to use this tool.";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"wife" = "wife";
+
+/* AppSettingVC-actionsheet reset app confirm button
+   ContractionHistoryVC-alertview confirm button
+   ContractionVC-UIAlertview confirm button
+   KickListVC-email kick success */
+"YES" = "YES";
+
+/* alertview confirm button
+   Alertview confirm button
+   alertview Yes button */
+"Yes" = "Yes";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"you" = "you";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"you are" = "you are";
+
+/* Label title for relationship field */
+"You are the" = "You are the";
+
+/* No comment provided by engineer. */
+"You can use this feature for reviewing the app." = "You can use this feature to review the App.";
+
+/* alert message when user has not purchased the product */
+"You have not purchased the product" = "You have not purchased the App";
+
+/* alertview when user switch account */
+"You have switched user account, please choose your action" = "You have switched user account, please choose your action";
+
+/* InviteContactVC-get contact error msg */
+"You must authorize the app to use your contact list." = "Please authorize the App to use your contact list.";
+
+/* ContractionGraphVC-infotext message, will append dilation length at the back */
+"You've entered the active phase within the first stage of labour.\n\nThe estimated duration of this phase is 3 - 5 hours.\n\nThe estimated dilation of the cirvex is about " = "You're in the active phase within the 1st stage of labor.\n\nThe estimated duration of this phase is 3 - 5 hours.\n\nThe estimated dilation of the cervix is about ";
+
+/* ContractionGraphVC-infotext message, will append dilation length at the back */
+"You've entered the early phase within the first stage of labour.\n\nThe estimated duration of this phase is 8 - 12 hours.\n\nThe estimated dilation of the cirvex is about " = "You're in the early phase within the 1st stage of labor.\n\nThe estimated duration of this phase is 8 - 12 hours.\n\nThe estimated dilation of the cervix is about ";
+
+/* ContractionGraphVC-infotext message, will append dilation length at the back */
+"You've entered the transition phase within the first stage of labour.\n\nThe estimated duration of this phase is 30 mins - 2 hours.\n\nThe estimated dilation of the cirvex is about " = "You're in the transition phase within the 1st stage of labor.\n\nThe estimated duration of this phase is 30 mins - 2 hours.\n\nThe estimated dilation of the cervix is about ";
+
+/* alert view message when daily action is added to to-do list */
+"Your action is added to your to-do list." = "Your action is added to your to-do list.";
+
+/* Alertview 10 kick recorded message */
+"Your baby has moved 10 times within 2 hours. A kick icon will now appear to mark this session as complete." = "Your baby has moved 10 times within 2 hours. An icon will now appear to mark this session as successful.";
+
+/* Alertview time's up message */
+"Your baby has not moved 10 times in 2 hours. Don’t panic. Just try to wake your baby up by drinking a glass of juice, or walking around for few minutes. Once your baby is awake, start counting again. If the second time the kick count is not met, or if you feel a decrease in movement, call your doctor for further advice and directions. The chance is everything will be fine, but it’s better to check." = "Your baby has not moved 10 times in 2 hours. Don’t panic. Just try to wake your baby up by drinking a glass of juice, or walking around for few minutes. Once your baby is awake, start counting again. If the second time the kick count is not met, or if you feel a decrease in movement, call your doctor for further advice and directions. The chance is everything will be just fine, but it’s better to check.";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"your daughter is" = "your daughter is";
+
+/* Alertview device time changed message */
+"Your device time have been changed to before the start time of this kick session." = "Your device time has been changed to before the start time of this kick session.";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"your friend is" = "your friend is";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"your partner is" = "your partner is";
+
+/* Reset password succeed message */
+"Your password has been successfully reset. Please check your email for further instructions." = "Your password has been successfully reset. Please check your email for further instructions.";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"your sister is" = "your sister is";
+
+/* HelperClass-refering user base on ralationship setting to baby */
+"your wife is" = "your wife is";
+
+/* Agree to terms and privacy policy */
+"By registering, I accept the Health & Parenting Ltd Terms of Use and Privacy Policy" = "I accept the Health & Parenting Ltd Terms of Use and Privacy Policy";
+
+/* AboutUs-Privacy policy title
+ string to be underlined */
+"Privacy Policy Underline" = "privacy policy";
+
+/* string to be underlined */
+"Terms of Use Underline" = "terms";
+
+/* Signup invalid email error message */
+"The email address was invalid" = "The email address was invalid";
+
+/* how many weeks and day pregnant */
+" %@ pregnant." = " %@ pregnant.";
+
+/* how many weeks and day pregnant */
+"%@ pregnant" = "%@ pregnant";
+
+/* Got it button in tutorial popup */
+"Got it" = "Got it";
+
+/* Tutorial popup title */
+"Quick tip:" = "Quick tip";
+
+/* Today page tutorial message */
+"Try scrolling up for more Today Page content!" = "Try scrolling up for more Today Page content!";
+
+/* Today page info tutorial message */
+"Use this info to find out more about each page" = "Use this info to find out more about each page";
+
+/* Baby viewer (play) tutorial message */
+"Pinch and Zoom on the image to move around." = "Pinch and Zoom on the image to move around.";
+
+/* Baby viewer (play) scrub bar tutorial message */
+"Have you tried the scrub bar?" = "Have you tried the scrub bar?";
+
+/* Weekly tutorial message */
+"Scroll to the bottom to add your notes and photos" = "Scroll to the bottom to add your notes and photos";
+
+/* show IAP price */
+"Only %@" = "Get all extra features\n for only %@";
+
+/* My Belly take photo now title */
+"Take a photo now?" = "Take a photo now?";
+
+/* My Belly take photo choice to take camera */
+"Camera" = "Camera";
+
+/* My Belly take photo choice to choose from camera roll */
+"Library" = "Library";
+
+/* Birth plan category name */
+"After Delivery" = "After delivery";
+
+/* Birth plan category name */
+"Birthing Equipment" = "Birthing equipment";
+
+/* Birth plan category name */
+"Caesarean Birth" = "Cesarean birth";
+
+/* Birth plan category name */
+"Companions" = "Companions";
+
+/* Birth plan category name */
+"Delivery" = "Delivery";
+
+/* Birth plan category name */
+"During Labour" = "During labor";
+
+/* Birth plan category name */
+"Environment" = "Environment";
+
+/* Birth plan category name */
+"Feeding" = "Feeding";
+
+/* Birth plan category name */
+"Foetal monitoring" = "Fetal monitoring";
+
+/* Birth plan category name */
+"Induction" = "Induction";
+
+/* Birth plan category name */
+"Pain relief" = "Pain relief";
+
+/* Birth plan category name */
+"Photos & videos" = "Photos & videos";
+
+/* Birth plan category name */
+"Tearing & Episiotomy" = "Tearing & episiotomy";
+
+/* Birth plan category name */
+"Umbilical Cord" = "Umbilical cord";
+
+/* Label title for location field */
+"Location" = "Location";
+
+/* My appointments button */
+"My appointments" = "My appointments";
+
+/* Alert view title when failed to stop contraction */
+"Stop Failed" = "Stop Failed";
+
+/* error message when failed to stop contraction counter */
+"Failed to stop contraction counter, please try again." = "Failed to stop contraction counter, please press STOP again.";
+
+/* how many weeks and day left */
+"%@ left." = "%@ left.";
+
+/* Country title for baby names */
+"Italian" = "Italian";
+
+/* Country list for baby names */
+"Italian names" = "Italian names";
+
+/* Country title for baby names */
+"Russian" = "Russian";
+
+/* Country list for baby names */
+"Russian names" = "Russian names";
+
+/* Country title for baby names */
+"Turkish" = "Turkish";
+
+/* Country list for baby names */
+"Turkish names" = "Turkish names";
+
+/* message when user didn't select any stars */
+"Please select stars" = "Please select stars";
+
+/* sorry message in Rate This App email */
+"Sorry to hear you’re not happy. We’d like to try and put things right for you." = "Sorry to hear you’re not happy. We’d like to try and put things right for you.";
+
+/* please tell us message in Rate This App email */
+"<br/><br/>Please tell us what you don’t like about the App, so we can help." = "<br/><br/>Please tell us what you don’t like about the App, so we can help.";
+
+/* Daily detech link to Tiny Beats */
+"Click here" = "Click here";
+
+/* Export diary button in weekly */
+"Export diary" = "Export diary";
+
+/* Export diary email subject */
+"My notes" = "My notes";
+
+/* Baby already born row */
+"Baby already born?" = "Baby already born?";
+
+/* Label title for DOB field */
+"Date of birth" = "Date of birth";
+
+/* alert message if user try to switch on born */
+"By turning this on, you will no longer follow your pregnancy. Are you sure?" = "By turning this on, you will no longer follow your pregnancy. Are you sure?";
+
+/* message if birthdate is set and not twin */
+"congratulations on the birth of your little one!" = "congratulations on the birth of your little one!";
+
+/* message if birthdate is set and twin */
+"congratulations on the birth of your little ones!" = "congratulations on the birth of your little ones!";
+
+/********* NEW ************/
+
+/* Alert message when in app purchase failed due to no internet connection */
+"Purchase failed, please make sure you have internet connection" = "Purchase failed, please make sure you have an internet connection";
+
+/* alertview title when last backup failed */
+"Backup Failed" = "Backup Failed";
+
+/* alertview message when last backup failed */
+"The last backup failed. Please make sure you have internet connection." = "The last backup failed. Please make sure you have internet connection.";
+
+/* show last backup date time */
+"Last backup on: %@" = "Last backup on: %@";
+
+/* show last backup not found */
+"Last backup not found" = "Last backup not found";
+
+/* message show user has not signin to any account */
+"Account email: Not signed in" = "Account email: Not signed in";
+
+/* message shown when email is unknown */
+"email unknown" = "email unknown";
+
+/* Show current account email */
+"Account email: %@" = "Account email: %@";
+
+/* DueDateVC-alertview message */
+"Due Date has been saved" = "Due date has been saved";
+
+/* Name's notes */
+"%@'s notes" = "%@'s notes";
+
+/* Title of my note section */
+"My notes" = "My notes";
+
+/* The baby just kicked text */
+"The baby just kicked %d times in" = "The baby just kicked %d times in";
+
+/* kick singular hour */
+" %d hour " = " %d hour ";
+
+/* kick plural hours */
+" %d hours " = " %d hours ";
+
+/* kick singular minute */
+" %d minute." = " %d minute.";
+
+/* kick plural minutes */
+" %d minutes." = " %d minutes.";
+
+/* Title for In App Purchase screen */
+"Upgrade now" = "Upgrade now";
+
+/* show new IAP price */
+"Upgrade Now - %@" = "Upgrade Now - %@";
+
+/* Title for Free 14 day trial screen */
+"Free 14 day trial" = "Free 14 day trial";
+
+/* Title for Reward screen */
+"Congratulations" = "Congratulations";
+
+/* Tier2Menu-menu button title */
+"Premium upgrade" = "Premium upgrade";
+
+/* push notification message about trial period expiry in n days */
+" only %d days left of your FREE trial!" = " only %d days left of your FREE trial!";
+
+/* push notification message about trial period expiry in > 4 days */
+" only %d >4days left of your FREE trial!" = " only %d days left of your FREE trial!";
+
+/* push notification message about trial period expiry in 1 day */
+" only one day left of your FREE trial!" = " only 1 day left of your FREE trial!";
+
+/* Country title for baby names */
+"Brazilian" = "Brazilian";
+
+/* Country list for baby names */
+"Brazilian names" = "Brazilian names";
+/* Scan Image annotation */
+"Cystic structure in the uterus" = "Cystic structure in the uterus";
+
+/* Scan Image annotation */
+"Dominant folicle before ovulation" = "Dominant folicle before ovulation";
+
+/* Scan Image annotation */
+"Embryo" = "Embryo";
+
+/* Scan Image annotation */
+"Fimbria" = "Fimbria";
+
+/* Scan Image annotation */
+"Head facing forward - eye clearly visible" = "Head facing forward - eye clearly visible";
+
+/* Scan Image annotation */
+"It's a boy" = "It's a boy";
+
+/* Scan Image annotation */
+"It's a girl" = "It's a girl";
+
+/* Scan Image annotation */
+"Largest follicle" = "Largest follicle";
+
+/* Scan Image annotation */
+"Twin pregnancy" = "Twin pregnancy";
+
+/* Scan Image annotation */
+"Twins touching heads" = "Twins touching heads";
+
+/* Scan Image annotation */
+"Yolk sac" = "Yolk sac";
+
+/* Text in scan images advert */
+"Don't forget to mention your baby's age in weeks" = "*Don't forget to mention your baby's age in weeks";
+
+/* Text in scan images advert */
+"If you want your little one(s) to feature in this App,\n please send us your images* to:" = "If you want your little one(s) to feature in this App,\n please send us your images* to:";
+
+/* Text in scan images advert */
+// Removed "We are always looking for more images" = "We are always looking for more images";
+
+/* Text in scan images advert */
+"Your baby in this App?" = "Your baby in this App?";
+
+/* Baby Name Genius App link in Weekly text */
+"Baby Name Genius App" = "Baby Names Genius";
+
+/* Install it now replacement link in Daily */
+"Install it now!" = "Install it now!";
+
+/* INTELLIGENT App replacement link in Daily */
+"INTELLIGENT App" = "INTELLIGENT App";
+
+/* AppSetting-healthkit setting title */
+"HealthKit sync" = "HealthKit sync";
+
+/* Top bar title for healthkit info */
+"HealthKit Info" = "HealthKit Info";
+
+/* HPWeight-weight unit in upper case */
+"KG" = "KG";
+
+/* UserDetailVC-Length metric units setting */
+"KG/CM" = "KG/CM";
+
+/* InAppPurchase in process message */
+"Contacting the store" = "Contacting App Store";
+
+/* Restore purchase in Help screen */
+"Restore my purchases" = "Restore my purchases";
+
+/* Message when restore purchase failed */
+"Restore Failed, please try again" = "Restore failed, please try again";
+
+/* OtherAppVC-Pregnancy + for iphone app title */
+"Pregnancy +" = "Pregnancy +";
+
+/* OtherAppVC-Pregnancy+ for iPhone description */
+"Are you expecting? Want to follow your pregnancy week by week? Get the FREE App" = "Are you expecting? Want to follow your pregnancy week by week? Get the worldwide No.1 pregnancy App.";
+
+/* OtherAppVC-Pregnancy+ for iPad description */
+"Are you expecting? Want to follow your pregnancy week by week? Get the worldwide No.1 pregnancy App. Read about your baby’s development, track your weight, create a birth plan, browse 1,000s of baby names and much more." = "Are you expecting? Want to follow your pregnancy week by week? Get the worldwide No.1 pregnancy App. Read about your baby’s development, track your weight, create a birth plan, browse 1,000s of baby names and much more.";
+
+/* OtherAppVC-pregnancy email subject */
+"Pregnancy + App" = "Pregnancy + App.";
+
+/* OtherAppVC-pregnancy email message */
+"I found this great Pregnancy Application. I thought you might like this as well." = "I found this great Pregnancy Application. I thought you might like this as well.";
+
+/* OtherAppVC-Baby Name Genius app title */
+"Baby Name Genius" = "Baby Names Genius";
+
+/* OOtherAppVC-Baby Name Genius description for iPhone */
+"Looking for a Baby Name? Use this unique INTELLIGENT App to find a name for your baby." = "Looking for a Baby Name? Use this EASY and FUN App to find the perfect name for your baby.";
+
+/* OtherAppVC-Baby Name Genius description for iPad */
+"Looking for a baby name and don’t want to look through endless lists? Use this unique INTELLIGENT App. It uses the latest technology to find that ONE perfect name amongst a database of 50,000 names. Install it now!" = "Looking for a Baby Name? Use this EASY and FUN App to find the perfect name for your baby.";
+
+/* OtherAppVC-Baby Name Genius email subject */
+"Baby Names Genius App" = "Baby Names Genius App";
+
+/* OtherAppVC-Baby Name Genius email message */
+"I found this great Baby Name Genius Application. I thought you might like to download it as well." = "I found this great application: Baby Names Genius. I thought you might like to download it as well.";
+
+/* OtherAppVC-period for iphone app title */
+"Period for iPhone" = "Period for iPhone";
+
+/* OtherAppVC-Period for iPhone description */
+"Want to track your cycle? Worried about period problems? Get the FREE App" = "Want to track your cycle? Worried about period problems? Get the FREE App";
+
+/* OtherAppVC-period email subject */
+"Period App" = "Period App";
+
+/* OtherAppVC-period email message */
+"I found this great Period Application for iPhone. I thought you might like this as well." = "I found this great Period Application for iPhone. I thought you might like to download it as well.";
+
+/* OtherAppVC-fertility for iphone app title */
+"Fertility for iPhone" = "Fertility for iPhone";
+
+/* OtherAppVC-Period for iPhone description */
+"Trying to get pregnant? Worried about your fertility? Learn more about fertility" = "Trying to get pregnant? Worried about your fertility? Learn more about fertility";
+
+/* OtherAppVC-fertility email subject */
+"Fertility App" = "Fertility App";
+
+/* OtherAppVC-fertility email message */
+"I found this great Fertility Application for iPhone. I thought you might like this as well." = "I found this great Fertility Application for iPhone. I thought you might like to download it as well.";
+
+
+/* OtherAppVC-Tiny Beats app title */
+"Tiny Beats" = "Tiny Beats";
+
+/* OOtherAppVC-Tiny Beats description for iPhone */
+"Are you pregnant and want to hear the heartbeat of baby at home? Experience this amazing bonding moment with an App!" = "Are you pregnant and want to hear the heartbeat of baby at home? Experience this amazing bonding moment with an App!";
+
+/* OtherAppVC-Tiny Beats description for iPad */
+"Are you pregnant and want to hear the heartbeat of baby at home? Experience this amazing bonding moment with an App! You can now listen to your baby’s heartbeat whenever you want. No need for any additional equipment, and it’s completely safe! " = "Are you pregnant and want to hear the heartbeat of baby at home? Experience this amazing bonding moment with an App! You can now listen to your baby’s heartbeat whenever you want. No need for any additional equipment, and it’s completely safe! ";
+
+/* OtherAppVC-tiny beats email subject */
+"Tiny Beats App" = "Tiny Beats App";
+
+/* OtherAppVC-tiny beats email message */
+"I found this great Baby Heartbeat Monitor Application. I thought you might like to download it as well." = "I found this great Baby Heartbeat Monitor Application. I thought you might like to download it as well.";
+
+/* Existing user label */
+"existing account" = "existing account";
+
+/* boy switch in baby names */
+"boy" = "boy";
+
+/* girl switch in baby names */
+"girl" = "girl";
+
+/* IAP Greeting message */
+"Hi" = "Hi";
+
+/* IAP Greeting first name */
+" %@" = " %@,";
+
+/* IAP Greeting message comma when no name */
+"," = ",";
+
+/* New IAP message */
+"Enjoy your 14 day Free trial and try all these premium features:" = "Enjoy your 14 day Free trial and try all these premium features:";
+
+/* bold the text: premium */
+"premium" = "premium";
+
+/* new get it early for IAP button */
+"Get it early for - %@" = "Get it early for - %@";
+
+/* New unlock selling message */
+"Unlock everything for one small price." = "Unlock everything for one small price.";
+
+/* bold the text: everything */
+"everything" = "everything";
+
+/* Switch ON side */
+"ON" = "on";
+
+/* Switch ON side */
+"OFF" = "off";
+
+/* length unit in cm */
+"cm" = "cm";
+
+/* length unit in in */
+"in" = "in";
+
+/* Back button in Upgrade Now Screen */
+"Back" = "Back";
+
+/* AboutUsVC-row title for Credits */
+"Credits" = "Credits";
+
+/* welcome message Enjoy the app */
+"Enjoy the app" = "Enjoy the app";
+
+/* welcome message telling user have successfully logged in */
+"You've successfully logged back into your account" = "You've successfully logged back into your account";
+
+/* Welcome back */
+"Welcome back" = "Welcome back";
+
+/* Login or signup with Facebook */
+"with Facebook" = "with facebook";
+
+/* Login or signup with Twitter */
+"with Twitter" = "with twitter";
+
+/* Alertview message when no internet connection on webview */
+"An internet connection is needed to access this page" = "An internet connection is needed to access this page";
+
+/* Free Trial message on daily section */
+"Free trial" = "Free trial";
+
+/* singular days left */
+"day left" = "day left";
+
+/* plural days left */
+"days left" = "days left";
+
+/* Premium trial message on weekly section */
+"Premium: week 15 - 42" = "Premium: week 15 - 42";
+
+/* Premium trial message on daily section */
+"Premium: day 99 - 294" = "Premium: day 99 - 294";
+
+/* BUY NOW button after 14 day trial expired */
+"BUY NOW" = "BUY NOW";
+
+/* Daily detech link to Baby Name */
+"Click here Baby Names" = "Click here";
+
+/* Tiny Beats goto button text */
+"GO TO ‘TINY BEATS’ APP" = "GO TO ‘TINY BEATS’ APP";
+
+/* Tiny Beat app promo text */
+"Listen to baby’s heartbeat with your iPhone or iPad" = "Listen to baby’s heartbeat with your iPhone or iPad";
+
+/* promo text to download the app now */
+"Download the App now" = "Download the App now";
+
+/* ContractionHistoryVC-actionsheet share to more options button */
+"More Options" = "More Options";
+
+/* Baby Names app promo text */
+"Looking for a\nBaby Name" = "Looking for a\nBaby Name";
+
+/* promo text to download the app now */
+"Download the App now" = "Download the App now";
+
+/* only available in english */
+"*only available in English" = "*only available in English";
+
+/* Baby Names goto button text */
+"GO TO ‘BABY NAMES GENIUS’" = "GO TO ‘BABY NAMES GENIUS’";
+
+/* Greeting with username in trial notification text */
+"Hi %@," = "Hello %@,";
+
+/* Greeting without username in trial notification text */
+"Hi," = "Hello,";
+
+/* Rate our app in daily and weekly text */
+"rate our App" = "rate our App";
+
+/* Family & baby app in daily and weekly text */
+"family & baby Apps" = "family & baby Apps";
+
+/* HelperClass-greeting weeks plural */
+"%ld weeks" = "%ld weeks";
+
+/* HelperClass-greeting week singular */
+"%ld week" = "%ld week";
+
+/* HelperClass-greeting days plural */
+"%ld days" = "%ld days";
+
+/* HelperClass-greeting day singular */
+"%ld day" = "%ld day";
+
+/* due date statement for greeting */
+"%@ %@ pregnant." = "%@ %@ pregnant.";
+
+/* showing week number in add weight */
+" - wk %ld" = " - wk %ld";
+
+/* Error message when password is less than 8 characters */
+"Your password must be at least 8 characters" = "Your password must be at least 8 characters long";
+
+/* AppSettingVC-actionsheet reset app button */
+"Reset App" = "Reset App";
+
+/* AppSettingVC-actionsheet delete cloud data button */
+"Delete Cloud Data" = "Delete Cloud Data";
+
+/* Get everything for one small price. */
+"Get everything for one small price." = "Get everything for one small price.";
+
+/* show NOW IAP price */
+"Buy NOW [%@]" = "Buy NOW %@";
+
+/* IAP Message 2 for Weekly & Daily & Others */
+"Don't miss out, unlock the 2nd and 3rd trimester info now." = "Don't miss out, unlock the 2nd and 3rd trimester\ninfo now.";
+
+/* IAP Message 2 for Full Video */
+"Want to see the FULL video? Unlock the 2nd and 3rd trimester now." = "Want to see the FULL video?\nUnlock the 2nd and 3rd trimester now.";
+
+/* IAP Message 2 for Images */
+"Want to see ALL scan images? Unlock the 2nd and 3rd trimester now." = "Want to see ALL scan images?\nUnlock the 2nd and 3rd trimester now.";
+
+/* IAP Message 2 for Kick Counter */
+"Active babies are usually healthy babies. Go premium to use the Kick Counter." = "Log your baby’s movements and kicks.\nGo premium to use the Kick Counter.";
+
+/* IAP Message 2 for Hospital Bag */
+"Do you know what you need to pack for the hospital? Go premium to use the Hospital Bag tool." = "Do you know what you need to pack for the hospital?\nGo premium to use the Hospital Bag tool.";
+
+/* IAP Message 2 for Birth Plan */
+"Have you made a Birth Plan? Go premium and create your personalized plan." = "Have you made a Birth Plan?\nGo premium and create your personalized plan.";
+
+/* IAP Message 2 for Contraction Timer  */
+"Learn to count your contractions! Go premium to use the Contraction Timer." = "Want to practise timing contractions?\nGo Premium to use the Contractions Timer.";
+
+/* Like this article?  */
+"Like this article?" = "Like this article?";
+
+/* New Alertview 10 kick recorded title */
+"Session saved!" = "Session saved!";
+
+/* New Alertview 10 kick recorded message */
+"We have saved your session of 10 kicks within 2 hours. You can start a new session at any point." = "We have saved your session of 10 kicks within 2 hours. You can start a new session at any point.";
+
+/* Daily info disclaimer text */
+"This information is not intended to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalized medical advice.\n\nAll contents copyright © Health & Parenting Ltd 2018. All rights reserved."="This information is not intended to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalized medical advice.\n\nAll contents copyright © Health & Parenting Ltd 2018. All rights reserved.";
+
+/* number of week pregnant - auto pluraization */
+"%ld week(s)" = "%ld week(s)";
+
+/* number of day pregnant - auto pluraization */
+"%ld day(s)" = "%ld day(s)";
+
+/* Baby Plus app promo text */
+"Download the App now" = "Download the App now";
+
+/* baby plus promo text to download the app now */
+"Your Baby Tracker App" = "Your Baby Tracker App";
+
+/* Baby Plus goto button text */
+"GO TO ‘BABY+’ APP" = "GO TO ‘BABY+’ APP";
+
+/* Baby+ cross promote text */
+"If you’ve enjoyed this App, you can now download our follow-on App Baby+. Install here" = "If you’ve enjoyed this App, you can now download our follow-on App Baby+. Install here";
+
+/* Weekly detect link to Baby+ */
+"Baby+" = "Baby+";
+
+/* Weekly detect link to Baby+ */
+"here" = "here";
+
+/* Blur IAP message */
+"Get everything for one small price" = "Get everything for one small price";
+
+/* bold the text: everything */
+"everything" = "everything";
+
+/* Sign up screen 'or' word */
+"or"="or";
+
+/* Password placeholder */
+"Password (8-20 characters)"="Password (8-20 characters)";
+
+/* Reset - Onboarding */
+"Forgot your password?"="Forgot your password?";
+
+/* Navigation bar title */
+"Join us"="Join us";
+
+/* Navigation bar title */
+"Log in"="Log in";
+
+/* Agree to terms and privacy policy */
+"By tapping 'Continue' you agree to our terms and privacy policy"="By tapping 'Continue' you agree to our terms and privacy policy";
+
+/* Agree to terms and privacy policy */
+"By tapping 'Done' you agree to our terms and privacy policy"="By tapping 'Done' you agree to our terms and privacy policy";
+
+/* Calculate due date button */
+"Calculate due date"="Calculate due date";
+
+/* Due date calculator navigation title*/
+"Due date calculator"="Due date calculator";
+
+/* Country title for baby names */
+"Unisex" = "Unisex";
+
+/* Country list for baby names */
+"Unisex names" = "Unisex names";
+
+/* Food - Spotlight search */
+"vitamins"="vitamins";
+
+/* Food - Spotlight search */
+"weight gain"="weight gain";
+
+/* Food - Spotlight search */
+"food"="food";
+
+/* labor - Spotlight search */
+"labor"="labor";
+
+/* labor - Spotlight search */
+"childbirth"="childbirth";
+
+/* exercise - Spotlight search */
+"exercise"="exercise";
+
+/* images - Spotlight search */
+"ultrasound"="ultrasound";
+
+/* belly - Spotlight search */
+"belly"="belly";
+
+/* contractions - Spotlight search */
+"contraction timer"="contraction timer";
+
+/* Spotlight search - description */
+"Everything you need in one Pregnancy App!"="Everything you need in one Pregnancy App!";
+
+/* Spotlight search - description */
+"Want to see beautiful, interactive images for every week of pregnancy?"="Want to see beautiful, interactive images for every week of pregnancy?";
+
+/* Spotlight search - description */
+"Diet, exercise and labor info"="Diet, exercise and labor info";
+
+/* Spotlight search - description */
+"Count baby’s kick with a kick counter"="Count baby’s kick with a kick counter";
+
+/* Spotlight search - description */
+"Pregnancy Weight log"="Pregnancy Weight log";
+
+/* Spotlight search - description */
+"How to write a birth plan"="How to write a birth plan";
+
+/* Spotlight search - description */
+"1000s of Baby names"="1000s of Baby names";
+
+/* Spotlight search - description */
+"Do you know what you need to pack for the hospital?"="Do you know what you need to pack for the hospital?";
+
+/* Spotlight search - description */
+"Contraction Timer. Learn to count your contractions!"="Contraction Timer. Learn to count your contractions!";
+
+/* Have you seen our other apps? */
+"Have you seen our other apps?" = "Have you seen our other apps?";
+
+/* Label title for last period field */
+"Enter the 1st day of the your last period:" = "Enter the 1st day of the last period:";
+
+
+/* Tier2Menu-side menu upgrade and other app title */
+"Other apps" = "Other apps";
+
+/* Tier2Menu-side menu Reset app title */
+"Reset app" = "Reset app";
+
+/* Tier2Menu-side menu Help me calculate title */
+"Help me calculate" = "Help me calculate";
+
+/* alertview when due date is out of bound */
+"Your due date is out of bounds!\n\nPlease update your due date." = "Your due date is out of bounds!\n\nPlease update your due date.";
+
+/* Tier2Menu-side menu share and export title */
+"Share and export"="Share and export";
+
+/* alertview when user has not sign up */
+"Your data is not backed-up!\n\nPlease allow your data to be saved and create an account now.\n\nDon't worry..., we won't post to Facebook or Twitter or share info on your behalf without your permission."="Your data is not backed-up!\n\nPlease allow your data to be saved and create an account now.\n\nDon't worry, we won't post to Facebook or Twitter or share info on your behalf without your permission.";
+
+/* Tier2Menu-side menu Today page motion title */
+"Today page motion"="Today page motion";
+
+/* Tier2Menu-side menu my account title */
+"My account"="My account";
+
+/* Tier2Menu-side menu pregnancy & due date title */
+"Pregnancy & due date"="Pregnancy & due date";
+
+/* AboutUsVC-row title for Special Thanks */
+"Special Thanks"="Special Thanks";
+
+/* Tier2Menu-side menu You are: title */
+"You are:"="You are:";
+
+/* Tier2Menu-side menu Create a new account title */
+"Sign up (new account)"="Sign up (new account)";
+
+/* Select... */
+"Select..."="Select...";
+
+/* Alert message when reset app with no internet connection */
+"An Internet connection is required for this feature"="An Internet connection is required for this feature";
+
+/* Error message when failed to load our apps */
+"Error loading, please try again later..."="Error loading, please try again later...";
+
+/* Today go premium title */
+"Go Premium Today" = "Go Premium Today";
+
+/* Today go premium subtitle */
+"Today-Get everything for one small price" = "Get everything for one small price";
+
+/* Label title for last period field */
+"Enter the date of the conception:" = "Enter the date of the conception:";
+
+/* Today title for daily blog */
+"Today-Daily Blog" = "Daily Blog";
+
+/* login again message to backup data */
+"We’ve made changes to our\nservers and we’d like you to\nsign back into your account" = "We’ve made changes to our\nservers and we’d like you to\nsign back into your account";
+
+/* Survey screen title */
+"Survey" = "Survey";
+
+/* New tell a friend prefill text */
+"I use Pregnancy+ to follow my pregnancy. I thought you might like to download it as well." = "I use Pregnancy+ to follow my pregnancy. I thought you might like to download it as well.";
+
+/* Read more blog post */
+"Read More" = "Read More";
+
+/* Read more blog post */
+"Read more" = "Read more";
+
+/* Alert message when attempted to delete a weekly note */
+"Are you sure you want to delete this weekly note?" = "Are you sure you want to delete this weekly note?";
+
+/* Facebook like button text */
+"Liked" = "Liked";
+
+/* Today screen's Facebook details label */
+"Follow us on Facebook" = "Follow us on Facebook";
+
+/* What is a birth plan row text */
+"What is a birth plan?" = "What is a birth plan?";
+
+/* Relationship pick list */
+"Single Mother" = "Single Mother";
+
+/* Hardcoded blog - title */
+"From our writers" = "From our writers";
+
+/* Hardcoded blog - subtitle */
+"Today's blog article" = "Today's blog article";
+
+// Added for Version 4.5 (01062017)
+
+/* Today cell - Daily */
+"Daily Info" = "Daily Info";
+
+/* Blog texts */
+"Other posts" = "Other posts";
+
+/* Menu baby already born Yes button */
+"yes" = "yes";
+
+/* Menu baby already born No button */
+"no" = "no";
+
+/* note for take belly photo notif. */
+"Taken a belly picture recently? Tap here now!" = "Taken a belly picture recently? Tap here now!";
+
+/* Tier2Menu-side menu Pregnancy Loss title */
+"Pregnancy loss" = "Pregnancy loss";
+
+/* alert message if user try to switch on pregnancy loss */
+"We’re so sorry to hear about your loss. Wishing you all the strength and support you deserve in this difficult time. Please confirm that you want to reset your data." = "We’re so sorry to hear about your loss. Wishing you all the strength and support you deserve in this difficult time. Please confirm that you want to reset your data.";
+
+/* discount - off string used in pop up */
+"discount-off" = "off";
+
+/* Baby Plus goto button text */
+"Get %@ off" = "Get %@ off";
+
+/* Baby Plus pop up text */
+"Your complete baby tracker App, Helpful articles, Milestone tracker, Face-A-Day." = "Your complete baby tracker App, Helpful articles, Milestone tracker, Face-A-Day.";
+
+/* Baby Plus pop up title */
+"Get the next App" = "Get the next App";
+
+/* Join us pop up text */
+"Why not create an account so we can keep your data secure?\nIt only takes an email address." = "Why not create an account so we can keep your data secure?\nIt only takes an email address.";
+
+/* Join us pop up text */
+"We always respect your privacy." = "We always respect your privacy.";
+
+/* Your ... */
+"Your" = "Your";
+
+/* My ... */
+"My" = "My";
+
+/* Remind me later */
+"Remind me later" = "Remind me later";
+
+/* Alert message when user previously disallow app to access camera or photo library. */
+"Your privacy settings are preventing us from accessing your camera or photo library. You can open the Settings app, scroll down to find our app and turn the Camera or Photos on." = "Your privacy settings are preventing us from accessing your camera or photo library. You can open the Settings app, scroll down to find our app and turn the Camera or Photos on.";
+
+/* If user already purchased the in app purchase */
+"Already purchased?" = "Already purchased?";
+
+/* estore user in app purchase */
+"Restore" = "Restore";
+
+/* New strings since 10082017 for v4.6 */
+
+/* Notification - other */
+"partner-female" = "partner";
+
+/* Notification - other */
+"friend-female" = "friend";
+
+/* Error message when maximum login retries exceeeded */
+"Your account is locked due to multiple failed login attempts. Please try again after 5 minutes" = "Your account is locked due to multiple failed login attempts. Please try again after 5 minutes";
+
+/* Country list for baby names */
+"Dutch names" = "Dutch names";
+
+/* Country title for baby names */
+"Dutch" = "Dutch";
+
+/* shorter save */
+"Shorter Save" = "Save";
+
+/* App menu string - Reminders */
+"Reminders" = "Reminders";
+
+/* Switch ON side */
+"on" = "on";
+
+/* Switch ON side */
+"off" = "off";
+
+/* anding5.0-Respect privacy label */
+"We respect your <b><i>privacy</i></b>,\nread our notice for more info"="We respect your <b><i>privacy</i></b>,\nread our notice for more info";
+
+/* Login or signup with Facebook */
+"Login with Facebook"="Login with Facebook";
+
+/* Login or signup with Twitter */
+"Login with Twitter"="Login with Twitter";
+
+/* Email Address placeholder */
+"Email Address"="Email Address";
+
+/* Agree to terms */
+"By tapping 'Done' you agree to our <b><i>terms</i></b>"="By tapping 'Done' you agree to our <b><i>terms</i></b>";
+
+/* Bar title in onboarding - My settings */
+"My settings" = "My settings";
+
+/* Due date analytics policy */
+"We use your due date and <b><i>analytics</i></b> to provide you with customised information for every stage of your pregnancy." = "We use your due date and <b><i>analytics</b></i> to provide you with customized information for every stage of your pregnancy.";
+
+/* Pop up agree button */
+"Agree" = "Agree";
+
+/* Consent pop up screen title */
+"Just so you know" = "Just so you know";
+
+/* Birth plan title */
+"%@'s birth plan" = "%@'s birth plan";
+
+/* NEW IN 5.0 */
+
+/* Profile menu item - FAQ */
+"Frequently asked questions" = "Frequently asked questions";
+
+/* Profile menu item - Rate us */
+"Rate us" = "Rate us";
+
+/* Profile menu item - Our other apps */
+"Our other apps" = "Our other apps";
+
+/* Profile menu item - You are */
+"You are" = "You are";
+
+/* Profile section name - Menu */
+"Menu" = "Menu";
+
+/* Profile section name - Accounts */
+"Accounts" = "Accounts";
+
+/* Tab menu title - Your Baby */
+"Your Baby" = "Your Baby";
+
+/* Shop Tier2 Title */
+"Shop" = "Shop";
+
+/* Feedback Tier2 Title */
+"Feedback" = "Feedback";
+
+/* Today Card title - Weekly Blog */
+"WEEKLY BLOG" = "WEEKLY BLOG";
+
+/* Today card subtitle - Your baby */
+"Your baby" = "Your baby";
+
+/* Today card greeting - Good morning */
+"Good morning," = "Good morning,";
+
+/* Today card greeting - Good afternoon */
+"Good afternoon," = "Good afternoon,";
+
+/* Today card greeting - Good evening */
+"Good evening," = "Good evening,";
+
+/* Today card subtitle - scan week */
+"Scan week %ld" = "Scan week %ld";
+
+/* Today card subtitle - baby size */
+"Your baby is the size of a %@" = "Your baby is the size of a %@";
+
+/* Today card subtitle - your belly */
+"Your belly at month %ld" = "Your belly at month %ld";
+
+/* Today card subtitle - appointment */
+"You have an appointment" = "You have an appointment";
+
+/* Today card subtitle - 10:00 am with Dr Jones */
+"%@ with %@" = "%@ with %@";
+
+/* Today card subtitle - share type */
+"Spread the word" = "Spread the word";
+
+/* Today card subtitle - share type */
+"Support this App" = "Support this App";
+
+/* Today card subtitle - share type */
+"Rate us now" = "Rate us now";
+
+/* Today card subtitle - share type */
+"Love the App?" = "Love the App?";
+
+/* Today card subtitle - share type */
+"Is this App useful?" = "Is this App useful?";
+
+/* Today card subtitle - share type */
+"How do you like this App?" = "How do you like this App?";
+
+/* Today card subtitle - share type */
+"How would you rate us?" = "How would you rate us?";
+
+/* Today card subtitle - share type */
+"Share the love!" = "Share the love!";
+
+/* Today card subtitle - rate us */
+"Rate us - help more users discover Pregnancy+" = "Rate us - help more users discover Pregnancy+";
+
+/* Today card button title - my weight */
+"Add new weight" = "Add new weight";
+
+/* Today card button title - my weight */
+"Please set your weight" = "Please set your weight";
+
+/* Today card title - to do list */
+"To Do List" = "To Do List";
+
+/* Today section header - Yesterday */
+"Yesterday" = "Yesterday";
+
+/* Navigation bar button title */
+"Close" = "Close";
+
+/* Share daily pregnancy info */
+"My pregnancy info day %d" = "My pregnancy info day %d";
+
+/* Share daily blog */
+"Daily blog day %d" = "Daily blog day %d";
+
+/* Top picker wheel title */
+"MONTH" = "MONTH";
+
+/* Add appointment screen title */
+"Add Appointment" = "Add Appointment";
+
+/* Navigation bar button title - done */
+"Done" = "Done";
+
+/* appointment name placeholder */
+"Appointment name" = "Appointment name";
+
+/* appointment notes placeholder */
+"Add notes for your appointment..." = "Add notes for your appointment...";
+
+/* part of sentense Your/My baby is now the size of an apple */
+"baby is now the size of" = " baby is now the size of";
+
+/* part of sentense Lasted 2 hours 30 mins */
+"Lasted " = "Lasted ";
+
+/* kick counter instruction title */
+"Tap the foot to start \ncounting kicks" = "Tap the foot to start \ncounting kicks";
+
+/* number of kicks */
+"%ld kicks" = "%ld kicks";
+
+/* contractions counter instruction title */
+"Tap the clock to start \ntiming contractions" = "Tap the clock to start \ntiming contractions";
+
+/* section title - baby names by countries */
+"Countries" = "Countries";
+
+/* input baby name placeholder text */
+"Type name here..." = "Type name here...";
+
+/* confirmation before delete record */
+"Are you sure?" = "Are you sure?";
+
+/* input weekly notes placeholder text */
+"Add notes here..." = "Add notes here...";
+
+/* add note screen title */
+"Add Note" = "Add Note";
+
+/* Imagery screen title */
+"Imagery" = "Imagery";
+
+/* size guide category */
+"Size by fruit" = "Size by fruit";
+
+/* size guide category */
+"Size by animal" = "Size by animal";
+
+/* size guide category */
+"Size by sweets" = "Size by sweets";
+
+/* today card - baby name action title */
+"Go to your full list of names" = "Go to your full list of names";
+
+/* name list sorting by top */
+"TOP" = "TOP";
+
+/* My Questions - add question placeholder text */
+"Type your question..." = "Type your question...";
+
+/* My Questions - add question button label */
+"Add a question" = "Add a question";
+
+/* My Questions - add answer placeholder */
+"Add answer here..." = "Add answer here...";
+
+/* birth plan section header */
+"Select items" = "Select items";
+
+/* Header title */
+"My Tasks" = "My Tasks";
+
+/* header title */
+"Suggested Tasks" = "Suggested Tasks";
+
+/* Todo add a task button label */
+"Add a task" = "Add a task";
+
+/* Hospital bag header title */
+"Item list" = "Item list";
+
+/* Profile screen title */
+"Profile" = "Profile";
+
+/* ------- New strings since 01022018 for v5.0 ------- */
+/* Tooltip description */
+"Tap the info icon in the header to find out more about each page." = "Tap the info icon in the header to find out more about each page.";
+
+/* Consent pop up disagree button */
+"Discontinue app and export data" = "Discontinue app and export data";
+
+/* Phone book removal text */
+"We've removed the Phone Book feature from the new version of Pregnancy+. If you saved numbers using this feature you can export them using the button below." = "We've removed the Phone Book feature from the new version of Pregnancy+. If you saved numbers using this feature you can export them using the button below.";
+
+/* Phone book removal title */
+"Phone Book" = "Phone Book";
+
+/* Phone book removal button text */
+"Export data" = "Export data";
+
+/* Pop ups text */
+"Continue your journey" = "Continue your journey";
+
+/* Pop ups text */
+"Your <b>completely free</b> baby tracker App with great features like helpful articles, Milestone tracker & Face-A-Day." = "Your <b>completely free</b> baby tracker App with great features like helpful articles, Milestone tracker & Face-A-Day.";
+
+/* Pop ups text */
+"Get Baby+ for free today" = "Get Baby+ for free today";
+
+/* Pop ups text */
+"Take Part" = "Take Part";
+
+/* Pop ups text */
+"Register for free today" = "Register for free today";
+
+/* Pop ups text */
+"Share my baby’s size" = "Share my baby’s size";
+
+/* Pop ups text */
+"Sign up for an account" = "Sign up for an account";
+
+/* Appointments My Question section */
+"Suggested Questions" = "Suggested Questions";
+
+/* Hospital bag section */
+"To take" = "To take";
+
+/* To-do placeholder */
+"Type your task..." = "Type your task...";
+
+/* Hospital bag button */
+"Share all" = "Share all";
+
+/* Top left button */
+"Help" = "Help";
+
+/* ------- New strings since 08022018 for v5.0 ------- */
+/* iPad Today Timeline Card Week Title */
+"This week" = "This week";
+
+/* Today iPad card title - schedule */
+"Schedule" = "Schedule";
+
+/* Today iPad card title - actions */
+"Actions" = "Actions";
+
+/* indicate more timeline action available */
+" + %d more" = " + %d more";
+
+/* iPad Today action cards - button to see more actions */
+"See more actions..." = "See more actions...";
+
+/* birth plan section header */
+"My items" = "My items";
+
+/* birth plan section header */
+"Suggested items" = "Suggested items";
+
+/* Exporting my belly photo */
+"Exporting..." = "Exporting...";
+
+/* Share size popup title */
+"Share size" = "Share size";
+
+/*---- TIMELINE ----*/
+/* Timeline - hospital bag */
+"Timeline - hospital bag" = "hospital bag";
+
+/* Timeline - test for down's synd. */
+"Timeline - test for down's synd." = "test for down's synd.";
+
+/* Timeline - baby’s heart starts beating */
+"Timeline - baby’s heart starts beating" = "baby’s heart starts beating";
+
+/* Timeline - implantation */
+"Timeline - implantation" = "implantation";
+
+/* Timeline - conception */
+"Timeline - conception" = "conception";
+
+/* Timeline - good infant survival rate */
+"Timeline - good infant survival rate" = "good infant survival rate";
+
+/* Timeline - voice recognition */
+"Timeline - voice recognition" = "voice recognition";
+
+/* Timeline - birth plan */
+"Timeline - birth plan" = "birth plan";
+
+/* Timeline - antenatal class */
+"Timeline - antenatal class" = "antenatal class";
+
+/* Timeline - dating scan */
+"Timeline - dating scan" = "dating scan";
+
+/* Timeline - 1st scan */
+"Timeline - 1st scan" = "1st scan";
+
+/* Timeline - full term */
+"Timeline - full term" = "full term";
+
+/* Timeline - folic acid supplement */
+"Timeline - folic acid supplement" = "folic acid supplement";
+
+/* Timeline - gender scan */
+"Timeline - gender scan" = "gender scan";
+
+/* Timeline - due date */
+"Timeline - due date" = "due date";
+
+/* Timeline - anomaly scan */
+"Timeline - anomaly scan" = "anomaly scan";
+
+/* Timeline - prepare nursery */
+"Timeline - prepare nursery" = "prepare nursery";
+
+/* Timeline - heartbeat with doppler */
+"Timeline - heartbeat with doppler" = "heartbeat with doppler";
+
+/* Timeline - test for antibodies */
+"Timeline - test for antibodies" = "test for antibodies";
+
+/* Timeline - klast period */
+"Timeline - klast period" = "last period";
+
+/* Timeline - blood test for sickle cell & thalassaemia */
+"Timeline - blood test for sickle cell & thalassaemia" = "blood test for sickle cell & thalassaemia";
+
+/* Timeline - 1st kick for dad to feel */
+"Timeline - 1st kick for dad to feel" = "1st kick for dad to feel";
+
+/* Timeline - nuchal transl scan */
+"Timeline - nuchal transl scan" = "nuchal transl scan";
+
+/* Timeline - preg test */
+"Timeline - preg test" = "preg test";
+
+/* Birth plan - item number */
+"%ld item" = "%ld item";
+
+/* Birth plan - item number */
+"%ld items" = "%ld items";
+
+/* Placeholder for user  name field */
+"Add your item here..." = "Add your item here...";
+
+/* Disclaimer subtitle label */
+"IMPORTANT MESSAGE" = "IMPORTANT MESSAGE";
+
+/* Today card subtitle - don't forget card */
+"Personal diary" = "Personal diary";
+
+/* Today card subtitle - don't forget card */
+"Add your pregnancy notes" = "Add your pregnancy notes";
+
+/* show all appointments */
+"All" = "All";
+
+/* HelperClass-zero in front of number of days - for chinese only */
+"zero" = "";
+
+/* Label title for item name field in appointment */
+"Item Name" = "Name";
+
+/* MyBirthPlan-UIAlertview title */
+"Note!" = "Alert";
+
+/* KickCounter-text */
+"Kick Today" = "Today";
+
+/* Week label for Chinese only */
+"zh Week" = "";
+
+/* Week or No. if Chinese */
+"Week or No" = "Week";
+
+/* weight unit pick list */
+"lb / in" = "lb / in";
+
+/* eg with Dr Jones */
+"with %@" = "with %@";
+
+/* partnership in launch screen */
+"In partnership with" = "In partnership with";
+
+/* appointment contact name placeholder */
+"Contact name" = "Contact name";
+
+/* Label title for contact field in appointment */
+"Contact" = "Contact";
+
+/* AppSettingVC-export all belly photo to email */
+"Export belly images to email" = "Export belly images to email";
+
+/* Create account - Onboarding */
+"Create account" = "Create account";
+
+/* Data consent statement */
+"Never lose your data. We’d like permission to securely store your due date, your weight data, and any other data you upload to the app. That way we can ensure you’re securely backed up!\n\nPlease see our <b>Privacy Notice</b> for more info." = "Never lose your data. We’d like permission to securely store your due date, your weight data, and any other data you upload to the app. That way we can ensure you’re securely backed up!\n\nPlease see our <b>Privacy Notice</b> for more info.";
+
+/* Data consent statement link */
+"Never lose your data. We’d like permission to securely store your due date, your weight data, and any other data you upload to the app. That way we can ensure you’re securely backed up!\n\nPlease see our <a href='#'>Privacy Notice</a> for more info." = "Never lose your data. We’d like permission to securely store your due date, your weight data, and any other data you upload to the app. That way we can ensure you’re securely backed up!\n\nPlease see our <a href='#'>Privacy Notice</a> for more info.";
+
+/* Reset App title in Account Setting screen */
+"Reset app but keep account" = "Reset app but keep account";
+
+/* Revoke consent and delete data title in Account Setting screen */
+"Revoke consent / Delete data" = "Revoke consent / Delete data";
+
+/* Prompt when revoke consent switch is selected */
+"By revoking consent/deleting data, you will delete your account, your database, and all related data from Pregnancy+ and Baby+ from the cloud. You will still be able to use our apps as a non-registered user. Are you sure you want to delete your account and all data from the cloud?" = "By revoking consent/deleting data, you will delete your account, your database, and all related data from Pregnancy+ and Baby+ from the cloud. You will still be able to use our apps as a non-registered user. Are you sure you want to delete your account and all data from the cloud?";
+
+/* alertview confirm delete data button */
+"Delete Data" = "Delete Data";
+
+/* Tips title on Today */
+"Activity tips" = "Activity tips";
+
+/* Tips title on Today */
+"Nutrition tips" = "Nutrition tips";
+
+/* Tips title on Today */
+"Your baby-tips" = "Your baby";
+
+/* Tips title on Today */
+"Your body-tips" = "Your body";
+
+/* Tips title on Today */
+"Health tips" = "Health tips";
+
+/* Tips title on Today */
+"Did you know?" = "Did you know?";
+
+/* Tips title on Today */
+"Time to think about" = "Time to think about";
+
+/* AppSettingVC-export all data in machine readable format */
+"Export all data" = "Export all data";
+
+/* AppSettingVC-share data in HTML format */
+"Share data" = "Share data";
+
+/* last time logged in title for export data */
+"Last time logged in" = "Last time logged in";
+
+/* Prompt when delete data */
+"By deleting data, you will delete your account, your database, and all related data from Pregnancy+ and Baby+ from the cloud. You will still be able to use our apps as a non-registered user. Are you sure you want to delete your account and all data from the cloud?" = "By deleting data, you will delete your account, your database, and all related data from Pregnancy+ and Baby+ from the cloud. You will still be able to use our apps as a non-registered user. Are you sure you want to delete your account and all data from the cloud?";
+
+/* Marketing opt-in text */
+"Receive promotional communications from Philips based on my preferences and online behavior." = "Receive promotional communications from Philips based on my preferences and online behavior.";
+
+/* What does this mean title */
+"What does this mean?" = "What does this mean?";
+
+/* Receive newsletter title in App Setting screen */
+"Receive newsletter" = "Receive newsletter";
+
+/* Tips for using 3D models */
+"Tap different parts of the baby and watch how it responds." = "Tap different parts of the baby and watch how it responds.";
+
+/* Tooltips - Privacy notes update */
+"We just wanted to let you know that we’ve updated our Privacy Notice. You can learn more <u>here</u>." = "We just wanted to let you know that we’ve updated our Privacy Notice. You can learn more <u>here</u>.";
+
+/* Tooltips - Privacy notes update */
+"Okay" = "Okay";
+
+/* SizeGuide save image shows text */
+"I'm %ld weeks pregnant" = "I'm %ld weeks pregnant";
+
+/* SizeGuide save image shows text */
+"I'm %ld week pregnant" = "I'm %ld week pregnant";
+
+/* SizeGuide save image shows text */
+" and my babies are the size of a/an %@!" = " and my babies are the size of a/an %@!";
+
+/* SizeGuide save image shows text */
+" and my baby is the size of a/an %@!" = " and my baby is the size of a/an %@!";
+
+/* 3D models popup shows text */
+"We will be updating our 3D models with different ethnicities in the coming months.\n\nMake sure you keep Pregnancy+ updated for the latest models!" = "We will be updating our 3D models with different ethnicities in the coming months.\n\nMake sure you keep Pregnancy+ updated for the latest models!";
+
+/* Baby name list - Polish name */
+"Polish name" = "Polish name";
+
+/* Philips store strings */
+"View your saved coupons" = "View your saved coupons";
+
+/* Philips store strings */
+"Go to Philips Shop now" = "Go to Philips Shop now";
+
+/* Philips store strings */
+"Save coupon for later" = "Save coupon for later";
+
+/* Save to Philips Promotions */
+"Save to Philips Promotions" = "Save to Philips Promotions";
+
+/* Philips store strings */
+"Visit the Philips Shop" = "Visit the Philips Shop";
+
+/* Philips store strings */
+"My Coupons" = "My Coupons";
+
+/* Philips store strings */
+"Expires: %@" = "Expires: %@";
+
+/* Philips store strings */
+"Copy code and go to Philips Shop" = "Copy code and go to Philips Shop";
+
+/* Philips store strings */
+"Philips Promotions" = "Philips Promotions";
+
+/* Choose button */
+"Choose" = "Choose";
+
+/* Maybe later button */
+"Maybe later" = "Maybe later";
+
+/* Count me in button */
+"OK, count me in" = "OK, count me in";
+
+/* Title for Ethnisity selection screen */
+"Select your baby" = "Select your baby";
+
+/* Models have downloaded message (outside the play section) */
+"Your 3D baby is now ready. Revisit the 3D baby section to view." = "Your 3D baby is now ready. Revisit the 3D baby section to view.";
+
+/* 3D models have downloaded (inside play section)*/
+"Your 3D baby is now ready. Tap OK to view new 3D models." = "Your 3D baby is now ready. Tap OK to view new 3D models.";
+
+/* Discover tab of Amazon shop */
+"Discover" = "Discover";
+
+/* Discover tab of Amazon shop */
+"Products" = "Products";
+
+/* Discover tab of Amazon shop */
+"Wish List" = "Wish List";
+
+/* Discover tab of Amazon shop */
+"Purchased" = "Purchased";
+
+/* Open in Amazon */
+"Open in Amazon" = "Open in Amazon";
+
+/* select items to delete */
+"Select Items..." = "Select Items...";
+
+/* message when deleting wish list */
+"Deleting items cannot be undone" = "Deleting items cannot be undone";
+
+/* Checkout with Amazon */
+"Checkout with Amazon" = "Checkout with Amazon";
+
+/* No description */
+"No description" = "No description";
+
+/* Description of amazon item */
+"Description" = "Description";
+
+/* Price from */
+"From\n" = "From\n";
+
+/* Singular item */
+"item" = "item";
+
+/* Plura items */
+"items" = "items";
+
+/* Prompt when user opting out */
+"By opting out you will no longer receive any form of communications. Specifically you won’t receive exclusive offers, tips and tricks or knowledge on product launches. Are you sure you want to no longer receive communications?" = "By opting out you will no longer receive any form of communications. Specifically you won’t receive exclusive offers, tips and tricks or knowledge on product launches. Are you sure you want to no longer receive communications?";
+
+/* AppSettingVC-export shopping table title */
+"MY SHOPPING PURCHASED LIST" = "MY SHOPPING PURCHASED LIST";
+
+/* AppSettingVC-export shopping table title */
+"MY SHOPPING WISH LIST" = "MY SHOPPING WISH LIST";
+
+/* Display text when price is not available */
+"Price not available" = "Price not available";
+
+/* Display when wish list is empty */
+"No items in your wish list" = "No items in your wish list";
+
+/* Display when purchase list is empty */
+"No items in your purchased list" = "No items in your purchased list";
+
+/* ------- New strings for List Change ------- */
+/* Placeholder for adding a todo task */
+"Add a To Do..." = "Add a To Do...";
+
+/* birth plan suggested header */
+"Suggested" = "Suggested";
+
+/* Remove all items */
+"Remove All" = "Remove All";
+
+/* Remove selected item */
+"Remove" = "Remove";
+
+/* Share birth plan button */
+"Share Plan" = "Share Plan";
+
+/* Refer to my hospital bag */
+"My Bag" = "My Bag";
+
+/* Share hospital bag items */
+"Share Bag" = "Share Bag";
+
+/* Due date for pregnancy - mother or single mother */
+"you are %@ pregnant." = "you are %@ pregnant.";
+
+/* Due date for pregnancy - partner */
+"your partner is %@ pregnant." =  "your partner is %@ pregnant.";
+
+/* Due date for pregnancy - grandparents */
+"your daughter is %@ pregnant." = "your daughter is %@ pregnant.";
+
+/* Due date for pregnancy - uncle or aunt */
+"your sister is %@ pregnant." = "your sister is %@ pregnant.";
+
+/* Due date for pregnancy - friend */
+"your friend is %@ pregnant." = "your friend is %@ pregnant.";
+
+/* progress title for revoking consent */
+"Revoking..." = "Revoking...";
+
+/* Revoke consent error message */
+"Error revoking consent. Please try again later or contact support@health-and-parenting.com" = "Error revoking consent. Please try again later or contact support@health-and-parenting.com";
+
+/* Reset app error message */
+"Error resetting app. Please try again later" = "Error resetting app. Please try again later";
+
+/* Mum's Belly - Me*/
+"Mum's Belly" = "Mom's Belly";
+
+/* Mum's Weight - Me */
+"Mum's Weight"="Mom's Weight";
+
+/* Back Button Title */
+"Bags" = "Bags";
+
+/* Country list for baby names */
+"Indian names" = "Indian names";
+
+/* Country list for baby names */
+"Indian" = "Indian";
+
+/* New String */
+/* Country title for baby names */
+"Finnish" = "Finnish";
+
+/* Country title for baby names */
+"Polish" = "Polish";
+
+/* Country title for baby names */
+"Romanian" = "Romanian";
+
+/* Country list for baby names */
+"Romanian names" = "Romanian names";
+
+/* Baby name list - Finnish name */
+"Finnish names" = "Finnish names";
+
+/* Baby name list - Polish name */
+"Polish names" = "Polish names";
+
+/*** new string for 5.1.6 ***/
+
+/* No 2D/3D scan image to display */
+"No scan to display" = "No scan to display";
+
+/* I don't want to sign in - relogin */
+"I don't want to sign in" = "I don't want to sign in";
+
+/* login again using email message */
+"Your account was previously \ncreated with this email" = "Your account was previously \ncreated with this email";
+
+/* login again using facebook message */
+"Your account was previously \ncreated with Facebook" = "Your account was previously \ncreated with Facebook";
+
+/* login again using twitter message */
+"Your account was previously \ncreated with Twitter" = "Your account was previously \ncreated with Twitter";
+
+/* Alert view title */
+"Caution!" = "Caution!";
+
+/* alertview when user don't want an account */
+"Without login your data \ncannot be synced, and \nthis may result in data loss." = "Without login your data \ncannot be synced, and \nthis may result in data loss.";
+
+/* alertview I understand button */
+"I understand" = "I understand";
