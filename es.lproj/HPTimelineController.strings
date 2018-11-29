@@ -1,0 +1,71 @@
+/* Class = "UILabel"; text = "hospital bag"; ObjectID = "0Vk-RB-FnF"; */
+"0Vk-RB-FnF.text" = "equipaje hospital";
+
+/* Class = "UILabel"; text = "test for down's synd."; ObjectID = "1Or-6a-Dc4"; */
+"1Or-6a-Dc4.text" = "prueba de síndrome Down";
+
+/* Class = "UILabel"; text = "baby’s heart starts beating"; ObjectID = "2nn-TX-Tbq"; */
+"2nn-TX-Tbq.text" = "primeros latidos del bebé";
+
+/* Class = "UILabel"; text = "implantation"; ObjectID = "5m6-f1-tJs"; */
+"5m6-f1-tJs.text" = "implantación";
+
+/* Class = "UILabel"; text = "conception"; ObjectID = "7Oy-0U-7Z9"; */
+"7Oy-0U-7Z9.text" = "concepción";
+
+/* Class = "UILabel"; text = "good infant survival rate"; ObjectID = "9XL-ZD-GQi"; */
+"9XL-ZD-GQi.text" = "buena tasa de supervivencia infantil";
+
+/* Class = "UILabel"; text = "voice recognition"; ObjectID = "Aul-Se-vLI"; */
+"Aul-Se-vLI.text" = "reconoce las voces";
+
+/* Class = "UILabel"; text = "birth plan"; ObjectID = "DOp-ZM-9Lt"; */
+"DOp-ZM-9Lt.text" = "plan de nacimiento";
+
+/* Class = "UILabel"; text = "antenatal class"; ObjectID = "FHK-2y-3oc"; */
+"FHK-2y-3oc.text" = "clases prenatales";
+
+/* Class = "UILabel"; text = "dating scan"; ObjectID = "KKy-wG-Zb0"; */
+"KKy-wG-Zb0.text" = "ecografía: edad gestacional";
+
+/* Class = "UILabel"; text = "1st scan"; ObjectID = "Mis-Px-xq6"; */
+"Mis-Px-xq6.text" = "1ª ecografía";
+
+/* Class = "UILabel"; text = "full term"; ObjectID = "Or0-9U-Gzv"; */
+"Or0-9U-Gzv.text" = "término";
+
+/* Class = "UILabel"; text = "folic acid supplement"; ObjectID = "PbY-Sw-xFF"; */
+"PbY-Sw-xFF.text" = "ácido fólico";
+
+/* Class = "UILabel"; text = "gender scan"; ObjectID = "R9n-g2-rox"; */
+"R9n-g2-rox.text" = "ecografía: sexo";
+
+/* Class = "UILabel"; text = "due date"; ObjectID = "RBC-75-kvX"; */
+"RBC-75-kvX.text" = "sales de cuentas";
+
+/* Class = "UILabel"; text = "anomaly scan"; ObjectID = "SFN-6a-wZq"; */
+"SFN-6a-wZq.text" = "ecografía: anomalías";
+
+/* Class = "UILabel"; text = "prepare nursey"; ObjectID = "W19-gl-nuG"; */
+"W19-gl-nuG.text" = "preparar la habitación del bebé";
+
+/* Class = "UILabel"; text = "heartbeat with doppler"; ObjectID = "WCu-OT-29d"; */
+"WCu-OT-29d.text" = "latidos con Doppler";
+
+/* Class = "UILabel"; text = "test for antibodies"; ObjectID = "bt6-pF-qAo"; */
+"bt6-pF-qAo.text" = "prueba de anticuerpos";
+
+/* Class = "UILabel"; text = "last period"; ObjectID = "kVg-mV-m0R"; */
+"kVg-mV-m0R.text" = "últ. periodo";
+
+/* Class = "UILabel"; text = "blood test for sickle cell & thalassaemia"; ObjectID = "qLm-GJ-Aji"; */
+"qLm-GJ-Aji.text" = "anemia falciforme y talasemia";
+
+/* Class = "UILabel"; text = "1st kick for dad to feel"; ObjectID = "rYB-Mm-Q1f"; */
+"rYB-Mm-Q1f.text" = "primera patadita que siente papá";
+
+/* Class = "UILabel"; text = "nuchal transl scan"; ObjectID = "s4x-kA-4sB"; */
+"s4x-kA-4sB.text" = "prueba de traslucencia nucal";
+
+/* Class = "UILabel"; text = "preg test"; ObjectID = "uY5-qW-aiC"; */
+"uY5-qW-aiC.text" = "prueba de embarazo";
