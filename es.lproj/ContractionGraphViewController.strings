@@ -1,0 +1,38 @@
+/* Class = "UILabel"; text = "TIME"; ObjectID = "N7h-De-LLG"; */
+"N7h-De-LLG.text" = "TIEMPO";
+
+/* Class = "UILabel"; text = "TIME"; ObjectID = "OMX-bv-trD"; */
+"OMX-bv-trD.text" = "TIEMPO";
+
+/* Class = "UILabel"; text = "Contraction info"; ObjectID = "RHk-KD-OZ3"; */
+"RHk-KD-OZ3.text" = "Info. de contracciones";
+
+/* Class = "UILabel"; text = "Duration of the last 10 contractions"; ObjectID = "SDW-gL-53c"; */
+"SDW-gL-53c.text" = "Duración de las 10 últimas contracciones";
+
+/* Class = "UILabel"; text = "Date & Time"; ObjectID = "fPS-QZ-OBI"; */
+"fPS-QZ-OBI.text" = "Fecha y hora";
+
+/* Class = "UILabel"; text = "Interval"; ObjectID = "kme-7J-9fg"; */
+"kme-7J-9fg.text" = "Intervalo";
+
+/* Class = "UISegmentedControl"; ky1-Ft-d8Z.segmentTitles[0] = "Lst 3"; ObjectID = "ky1-Ft-d8Z"; */
+"ky1-Ft-d8Z.segmentTitles[0]" = "3 últ.";
+
+/* Class = "UISegmentedControl"; ky1-Ft-d8Z.segmentTitles[1] = "Lst 5"; ObjectID = "ky1-Ft-d8Z"; */
+"ky1-Ft-d8Z.segmentTitles[1]" = "5 últ.";
+
+/* Class = "UISegmentedControl"; ky1-Ft-d8Z.segmentTitles[2] = "All"; ObjectID = "ky1-Ft-d8Z"; */
+"ky1-Ft-d8Z.segmentTitles[2]" = "Todas";
+
+/* Class = "UILabel"; text = "SESSION HISTORY"; ObjectID = "pBX-ib-Pmv"; */
+"pBX-ib-Pmv.text" = "HISTORIAL DE SESIONES";
+
+/* Class = "UILabel"; text = "Time in minutes between last 10 contractions"; ObjectID = "qNx-Cw-dw7"; */
+"qNx-Cw-dw7.text" = "Tiempo en minutos entre las últimas 10 contracciones";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "t7d-hy-nzJ"; */
+"t7d-hy-nzJ.text" = "Duración";
+
+/* Class = "UILabel"; text = "Overview"; ObjectID = "xKb-Fh-MXm"; */
+"xKb-Fh-MXm.text" = "Resumen";
