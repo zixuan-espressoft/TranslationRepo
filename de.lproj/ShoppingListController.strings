@@ -1,0 +1,8 @@
+/* Class = "UITextField"; placeholder = "Type to add item..."; ObjectID = "9he-rL-tzk"; */
+"9he-rL-tzk.placeholder" = "Type to add item...";
+
+/* Class = "UILabel"; text = "To buy"; ObjectID = "s63-je-Ubc"; */
+"s63-je-Ubc.text" = "To buy";
+
+/* Class = "UILabel"; text = "Got it"; ObjectID = "sX1-kv-RC6"; */
+"sX1-kv-RC6.text" = "Got it";
