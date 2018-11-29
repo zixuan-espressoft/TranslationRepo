@@ -1,0 +1,20 @@
+/* Class = "UILabel"; text = "Relationship"; ObjectID = "7Q1-Fz-Cge"; */
+"7Q1-Fz-Cge.text" = "Relationship";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "9QH-v4-kSE"; */
+"9QH-v4-kSE.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "owr-EI-FyO"; */
+"owr-EI-FyO.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Baby's gender"; ObjectID = "mQo-bO-W6V"; */
+"mQo-bO-W6V.text" = "Baby's gender";
+
+/* Class = "UILabel"; text = "Units"; ObjectID = "pc8-SE-d4y"; */
+"pc8-SE-d4y.text" = "Units";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "pkv-uy-dYU"; */
+"pkv-uy-dYU.text" = "Location";
+
+/* Class = "UILabel"; text = "Please take a moment to personalize your app"; ObjectID = "qkW-1P-ssS"; */
+"qkW-1P-ssS.text" = "Please take a moment to personalize your app";
