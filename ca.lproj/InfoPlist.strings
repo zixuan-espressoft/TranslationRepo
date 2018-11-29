@@ -1,0 +1,20 @@
+/* 
+  InfoPlist.strings
+  HPPregnancyPlus
+
+  Created by CS Soon on 2/26/14.
+  Copyright (c) 2014 Health & Parenting Ltd. All rights reserved.
+*/
+"CFBundleDisplayName" = "Pregnancy+";
+"SHORTCUT_TITLE_MYWEIGHT" = "Add My Weight";
+"SHORTCUT_TITLE_APPOINTMENT" = "New Appointment";
+"SHORTCUT_TITLE_BABYNAME" = "Enter Baby Name";
+
+"NSLocationWhenInUseUsageDescription" = "Your location (country) is requested when signing up for the app";
+"NSCalendarsUsageDescription" = "Please allow access to your calendar so you can sync your appointments";
+"NSCameraUsageDescription" = "This lets you take photos for your profile and for pregnancy tracking";
+"NSHealthShareUsageDescription" = "Please allow access to your HealthKit so that you can sync weight data";
+"NSHealthUpdateUsageDescription" = "Please allow access to your HealthKit so that you can sync weight data";
+"NSPhotoLibraryUsageDescription" = "This lets you choose photos from your camera roll for your profile and for pregnancy tracking";
+"NSPhotoLibraryAddUsageDescription" = "This lets you share photos and save photos to your camera roll";
+"NSLocationAlwaysUsageDescription" = "We use your location to determine your location.";
