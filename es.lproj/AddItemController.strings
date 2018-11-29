@@ -1,0 +1,14 @@
+/* Class = "IBUITextField"; placeholder = "Type here..."; ObjectID = "VL6-jc-1B4"; */
+"VL6-jc-1B4.placeholder" = "Escribe aquí...";
+
+/* Class = "IBUILabel"; text = "Add new to-do item"; ObjectID = "zoU-B0-kQc"; */
+"zoU-B0-kQc.text" = "Añadir nueva tarea";
+
+/* Class = "IBUITextField"; placeholder = "Type here..."; ObjectID = "Dar-Bq-4pM"; */
+"Dar-Bq-4pM.placeholder" = "Escribe aquí...";
+
+/* Class = "IBUILabel"; text = "Or... choose from the list"; ObjectID = "TqV-jC-ZLC"; */
+"TqV-jC-ZLC.text" = "O... elige de la lista";
+
+/* Class = "IBUITextField"; placeholder = "Type here..."; ObjectID = "rNv-XR-oE0"; */
+"rNv-XR-oE0.placeholder" = "Escribe aquí...";
