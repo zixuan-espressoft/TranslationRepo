@@ -1,0 +1,17 @@
+/* Class = "UILabel"; text = "FULL HISTORY"; ObjectID = "48z-m1-hQq"; */
+"48z-m1-hQq.text" = "FULL HISTORY";
+
+/* Class = "UILabel"; text = "Weight"; ObjectID = "FGg-jF-RbU"; */
+"FGg-jF-RbU.text" = "Weight";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "O1p-6P-gvP"; */
+"O1p-6P-gvP.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Add weight"; ObjectID = "ibp-5z-oTJ"; */
+"ibp-5z-oTJ.normalTitle" = "Add weight";
+
+/* Class = "UILabel"; text = "Change"; ObjectID = "udu-Kw-Axb"; */
+"udu-Kw-Axb.text" = "Change";
+
+/* Class = "UILabel"; text = "Week"; ObjectID = "wF0-hP-vQx"; */
+"wF0-hP-vQx.text" = "Week";
