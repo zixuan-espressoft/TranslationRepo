@@ -1,9 +1,0 @@
-
-/* Class = "UISegmentedControl"; Le4-On-VXH.segmentTitles[0] = "Image"; ObjectID = "Le4-On-VXH"; */
-"Le4-On-VXH.segmentTitles[0]" = "imagen";
-
-/* Class = "UISegmentedControl"; Le4-On-VXH.segmentTitles[1] = "2D Scan"; ObjectID = "Le4-On-VXH"; */
-"Le4-On-VXH.segmentTitles[1]" = "escáner 2";
-
-/* Class = "UISegmentedControl"; Le4-On-VXH.segmentTitles[2] = "3D Scan"; ObjectID = "Le4-On-VXH"; */
-"Le4-On-VXH.segmentTitles[2]" = "escáner 3";
